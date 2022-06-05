@@ -12,8 +12,9 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Carl Castro # author name
   bio: >- # tell to the world
-    I'm trying a lot of things atm, you can see the <a href="https://www.carlsbizarreadventure.ml/about/" target="_blank" rel="noopener">About</a> page to learn more.
-    You'll find a LOT of things here, from random events in my life to some existential and philosophical nonsense!
+      This magnificent (and rather good-looking) young man makes the magic happen in his hometown, the glorious Zamboanga City. 
+      He documents his [bizarre adventure](https://youtu.be/P19pe1pTOo0) right on this website.
+      
   username: username # general username
   github: github_username # github username
   twitter: twitter_username # twitter username
