@@ -12,8 +12,8 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Carl Castro # author name
   bio: >- # tell to the world
-      This guy right here makes the magic happen in his hometown, the glorious Zamboanga City. 
-      He documents all of his<a href="https://youtu.be/P19pe1pTOo0" target="_blank" rel="noopener">bizarre adventures</a> right on this website.
+      This guy right here makes all the magic happen in his hometown, the glorious Zamboanga City. 
+      He documents all of his <a href="https://youtu.be/wE_kjnNuf0w" target="_blank" rel="noopener">bizarre adventures</a> right on this website.
       
   username: username # general username
   github: github_username # github username
