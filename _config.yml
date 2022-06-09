@@ -12,14 +12,15 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Carl Castro # author name
   bio: >- # tell to the world
-      He considers this to be his internet 'safe space' where he can express his inner self (he just loves anime).
-      See as this dude documents his mediocre life's <a href="https://youtu.be/wE_kjnNuf0w" target="_blank" rel="noopener">bizarre adventures</a>.
+      He considers this his internet 'safe space' where he can express his inner self (he loves anime).
+      See as this dude documents his <a href="https://youtu.be/wE_kjnNuf0w" target="_blank" rel="noopener">bizarre adventures</a>.
       
   username: username # general username
   github: github_username # github username
   twitter: twitter_username # twitter username
   facebook: castro.carl1998 # facebook username
   email: carlrobincastro@gmail.com # email adress
+  anilist: Rumpelforeskin
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
