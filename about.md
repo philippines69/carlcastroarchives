@@ -13,6 +13,7 @@ If you have a question about him or else, just send a letter to him.
 You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
 
 **See what anime I'm watching**
+
 AniList: - anilist.co/user/{{ site.author.anilist }}
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
