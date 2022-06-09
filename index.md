@@ -1,4 +1,4 @@
 ---
-title: Carl's Archives | Home
+title: Home
 layout: home
 ---
