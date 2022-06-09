@@ -5,14 +5,16 @@
 - title: Archive
   url: /archive/
   external: false
+  
+ - title: Tags
+  url: /tags/
+  external: false
 
 - title: About
   url: /about/
   external: false # set true if you using external link, see below
   
- - title: Tags
-  url: /tags/
-  external: false
+
 
 # Example:
 # - title: github
