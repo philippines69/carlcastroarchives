@@ -3,14 +3,17 @@ label: Pages
 hide_body: false
 fields:
 - type: text
-  name: layout
-  label: layout
-- type: text
   name: title
   label: title
-- type: datetime
-  name: date
-  label: date
 - type: text
-  name: categories
-  label: categories
+  name: permalink
+  label: permalink
+- type: text
+  name: layout
+  label: layout
+- type: textarea
+  name: excerpt
+  label: excerpt
+- type: boolean
+  name: comments
+  label: comments
