@@ -7,6 +7,8 @@ categories: Site status
 ---
 ![](https://img3.stockfresh.com/files/k/kurhan/m/94/431586_stock-photo-business-success.jpg)
 
+> Fig. 1 - Me right now
+
 ###### This is Day 52 of me struggling to build this darn site and I can FINALLY post something.
 
 ##### This is Day 52 of me struggling to build this darn site and I can FINALLY post something.
