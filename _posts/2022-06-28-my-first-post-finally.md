@@ -5,7 +5,7 @@ date: 2022-06-28 16:00:00 +0000
 categories: Site status
 
 ---
-![](https://img3.stockfresh.com/files/k/kurhan/m/94/431586_stock-photo-business-success.jpg)
+![This is me right now](https://img3.stockfresh.com/files/k/kurhan/m/94/431586_stock-photo-business-success.jpg "This is me right now")
 
 > Fig. 1 - Me right now
 
