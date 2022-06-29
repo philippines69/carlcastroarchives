@@ -21,7 +21,7 @@ author:
   facebook: castro.carl1998 # facebook username
   email: carlrobincastro@gmail.com # email adress
   anilist: Rumpelforeskin
-  avatar: https://cdn.discordapp.com/attachments/749821207800447077/991734655860617246/avatar.jpg # change with your own avatar #/assets/img/avatar.jpg
+  avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
 url: "carlcastroarchives.ml" #
