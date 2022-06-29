@@ -5,6 +5,11 @@ date: 2022-06-28 16:00:00 +0000
 categories: Site status
 
 ---
+<figure>
+<img src="https://img3.stockfresh.com/files/k/kurhan/m/94/431586_stock-photo-business-success.jpg" alt="Literally me right now">
+<figcaption>Fig. 1 - Me right now</figcaption>
+</figure>
+
 ![This is me right now](https://img3.stockfresh.com/files/k/kurhan/m/94/431586_stock-photo-business-success.jpg "This is me right now")
 
 > Fig. 1 - Me right now
@@ -44,33 +49,4 @@ This is _Day 52_ of me struggling to build this darn site and I can _FINALLY_ po
 4. FINALLY post something.
 
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-figure {
-  border: 1px #cccccc solid;
-  padding: 4px;
-  margin: auto;
-}
 
-figcaption {
-  background-color: none;
-  color: black;
-  font-style: italic;
-  padding: 1px;
-  text-align: center;
-}
-</style>
-</head>
-<body>
-
-<h1>The figure and figcaption elements + CSS</h1>
-
-<figure>
-  <img src="https://img3.stockfresh.com/files/k/kurhan/m/94/431586_stock-photo-business-success.jpg" alt="Trulli" style="width:100%">
-  <figcaption>Fig.1 - Trulli, Puglia, Italy</figcaption>
-</figure>
-
-</body>
-</html>
