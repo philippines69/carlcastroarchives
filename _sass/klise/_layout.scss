@@ -189,13 +189,11 @@
     margin-bottom: 3em;
   }
 
-   .avatar-parent {
-    position: relative;
-    top: 0;
-    left: 0;
-  }
   
   .author-avatar {
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 140px;
     height: 140px;
     border-radius: 100%;
@@ -209,6 +207,7 @@
   }
   
    .avatar-background {
+    position: relative;
     width: 280px;
     height: 280px;
     border-radius: 100%;
