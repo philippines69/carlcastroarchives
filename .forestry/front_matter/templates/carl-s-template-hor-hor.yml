@@ -14,5 +14,9 @@ fields:
 - type: text
   name: categories
   label: categories
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 pages:
 - _posts/2022-06-28-my-first-post-finally.md
