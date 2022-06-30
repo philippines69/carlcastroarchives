@@ -1,8 +1,10 @@
 ---
 layout: post
 title: It's alive... finally!
-date: 2022-06-28 16:00:00 +0000
-categories: Site status
+date: 2022-06-28T16:00:00.000+00:00
+categories: ''
+tags:
+- Site Status
 
 ---
 <figure>
@@ -44,6 +46,3 @@ This is _Day 52_ of me struggling to build this darn site and I can _FINALLY_ po
 2. of me struggling to build
 3. this darn site and I can
 4. FINALLY post something.
-
-
-
