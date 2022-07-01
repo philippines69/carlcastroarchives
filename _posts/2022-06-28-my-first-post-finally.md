@@ -9,7 +9,7 @@ tags:
 ---
 <figure>
 <img src="https://img3.stockfresh.com/files/k/kurhan/m/94/431586_stock-photo-business-success.jpg" alt="Literally me right now">
-<figcaption>Fig. 1 - Me right now</figcaption>
+<figcaption>Fig. 1.0 - Me right now</figcaption>
 </figure>
 
 
