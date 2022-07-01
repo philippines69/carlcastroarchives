@@ -4,7 +4,7 @@ tags:
 layout: post
 title: Morbius is one of the movies of all time
 date: 2022-06-30T16:00:00.000+00:00
-categories: ''
+categories: Movies
 
 ---
 <figure>
