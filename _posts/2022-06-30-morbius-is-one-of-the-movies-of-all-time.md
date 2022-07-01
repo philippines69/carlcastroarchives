@@ -12,7 +12,7 @@ categories: ''
 </figure>
 
 
-Last night, me and my bro finally watched Marvel's Morbius. And I'd say, out of all the Marvel movies, Morbius is definitely one of them.
+Last night, me and my bro finally watched Marvel's 'Morbius.' And I'd say, out of all the Marvel movies, Morbius is definitely one of them.
 
 The runtime of 1 hour and 44 minutes wasn't nearly enough. But oh well, I GUESS it's fine as long as they make a sequel.
 
