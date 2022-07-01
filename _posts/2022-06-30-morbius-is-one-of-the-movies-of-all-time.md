@@ -14,4 +14,4 @@ The 1 hour and 44 minutes runtime wasn't nearly enough. I just wanted to see mor
 
 <figure> <img src=(![](https://cdn.discordapp.com/attachments/749821207800447077/992274175748218962/ezgif-5-b701a1102f.gif)" alt="Morbius changed me"> <figcaption>Me after Morbius</figcaption> </figure>
 
-I rate this movie Morbillion/10
+**I rate this movie Morbillion/10**
