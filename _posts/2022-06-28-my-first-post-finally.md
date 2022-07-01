@@ -8,7 +8,7 @@ tags:
 
 ---
 <figure>
-<img src="![](https://cdn.discordapp.com/attachments/749821207800447077/992427658761740401/431586_stock-photo-business-success.jpg)" alt="Literally me right now" style="width:500x;height:500px;">
+<img src="https://cdn.discordapp.com/attachments/749821207800447077/992427658761740401/431586_stock-photo-business-success.jpg" alt="Literally me right now" style="width:500x;height:500px;">
 <figcaption>Fig. 1.0 - Me right now</figcaption>
 </figure>
 
