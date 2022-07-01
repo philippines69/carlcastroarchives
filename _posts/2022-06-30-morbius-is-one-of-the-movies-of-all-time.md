@@ -8,7 +8,7 @@ categories: ''
 ---
 <figure> 
 <img src="https://cdn.discordapp.com/attachments/749821207800447077/992270356435968101/cover3.jpg" alt="Morbius sweep">
-<figcaption>A testament to how groundbreaking this movie is</figcaption>                                                    
+<figcaption>Fig. 1.0 - A testament to how groundbreaking this movie is</figcaption>                                                    
 </figure>
 
 
@@ -19,7 +19,7 @@ The runtime of 1 hour and 44 minutes wasn't nearly enough. But oh well, I GUESS 
 
 <figure> 
 <img src="https://cdn.discordapp.com/attachments/749821207800447077/992274175748218962/ezgif-5-b701a1102f.gif" alt="Morbius changed me"> 
-<figcaption>Me after Morbius</figcaption> 
+<figcaption>Fig. 2.0 - Me after Morbius</figcaption> 
 </figure>
 
 
