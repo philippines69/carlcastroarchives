@@ -7,7 +7,9 @@ categories: ''
 
 ---
 <figure> 
-<img src=https://cdn.discordapp.com/attachments/749821207800447077/992270356435968101/cover3.jpg" alt="Morbius sweep">                        <figcaption>A testament to how groundbreaking this movie is</figcaption>                                                     </figure>
+<img src=https://cdn.discordapp.com/attachments/749821207800447077/992270356435968101/cover3.jpg" alt="Morbius sweep">
+<figcaption>A testament to how groundbreaking this movie is</figcaption>                                                    
+</figure>
 
 Last night, me and my bro finally watched Marvel's Morbius. And I'd say, out of all the Marvel movies, Morbius is definitely one of them.
 
