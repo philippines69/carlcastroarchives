@@ -2,7 +2,7 @@
 layout: post
 title: It's alive... finally!
 date: 2022-06-28T16:00:00.000+00:00
-categories: ''
+categories: Site Status
 tags:
 - Site Status
 
