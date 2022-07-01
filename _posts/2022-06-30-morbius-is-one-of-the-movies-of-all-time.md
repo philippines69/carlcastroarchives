@@ -6,9 +6,13 @@ date: 2022-06-30 16:00:00 +0000
 categories: ''
 
 ---
-<figure> <img src=![](https://cdn.discordapp.com/attachments/749821207800447077/992270356435968101/cover3.jpg)" alt="Morbius sweep"> <figcaption>A testament to how groundbreaking this movie is</figcaption> </figure>
+<figure> 
+<img src=https://cdn.discordapp.com/attachments/749821207800447077/992270356435968101/cover3.jpg" alt="Morbius sweep">                        <figcaption>A testament to how groundbreaking this movie is</figcaption>                                                     </figure>
 
-<figure> <img src="![](https://img3.stockfresh.com/files/k/kurhan/m/94/431586_stock-photo-business-success.jpg)" alt="Literally me right now"> <figcaption>Fig. 1 - Me right now</figcaption> </figure>
+<figure> 
+<img 
+src="https://img3.stockfresh.com/files/k/kurhan/m/94/431586_stock-photo-business-success.jpg" alt="Literally me right now"> <figcaption>Fig. 1 - Me right now</figcaption> 
+</figure>
 
 Last night, me and my bro finally watched Marvel's Morbius. And I'd say, out of all the Marvel movies, Morbius is definitely one of them.
 
