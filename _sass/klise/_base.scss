@@ -46,7 +46,8 @@ body {
   overflow-x: hidden;
   position: relative;
   color: $text-base-color;
-  background-color: #0085dd; //$white;
+  background-color: #f9fbff; //$white;
+  background-image: url("/assets/img/background-image.png");
   font: $normal-weight #{$base-font-size}/#{$base-line-height} $sans-family;
   -webkit-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
