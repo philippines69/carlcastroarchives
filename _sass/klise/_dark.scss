@@ -1,9 +1,10 @@
 body[data-theme="dark"] {
   color: $dark-text-base-color;
   //background-color: $dark-black;
+  //background-image: url("https://www.transparenttextures.com/patterns/stardust.png");
   background-color: #1c0a00;
-background-image: url("https://www.transparenttextures.com/patterns/stardust.png");
-/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+  //background-image: url("/assets/img/background-image.png")
+
   
   // Heading
   h1,
