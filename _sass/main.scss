@@ -64,8 +64,8 @@ $on-widescreen: 1152px;
 
 //Preloader
 .loader {
-  width: 120px;
-  height: 150px;
+  width: 100vh; //120px;
+  height: 100%; //150px;
   background-color: #fff;
   background-repeat: no-repeat;
   background-image: linear-gradient(#ddd 50%, #bbb 51%),
@@ -75,7 +75,7 @@ $on-widescreen: 1152px;
     radial-gradient(ellipse at center, #aaa 25%, #eee 26%, #eee 50%, #0000 55%);
   background-position: 0 20px, 45px 0, 8px 6px, 55px 3px, 75px 3px, 95px 3px;
   background-size: 100% 4px, 1px 23px, 30px 8px, 15px 15px, 15px 15px, 15px 15px;
-  position: relative;
+  position: absolute; //relative;
   border-radius: 6%;
   animation: shake 3s ease-in-out infinite;
   transform-origin: 60px 180px;
