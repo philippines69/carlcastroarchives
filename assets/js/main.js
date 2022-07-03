@@ -1,4 +1,23 @@
 (() => {
+  //Loading animation
+  const wait = (delay = 1) =>
+  new Promise(resolve => setTimeout(resolve, delay));
+
+const setVisible = (elementOrSelector, visible) => 
+  (typeof elementOrSelector === 'string'
+    ? document.querySelector(elementOrSelector)
+    : elementOrSelector
+  ).style.display = visible ? 'block' : 'none';
+
+setVisible('.content', false);
+setVisible('.cat', true);
+
+document.addEventListener('DOMContentLoaded', () =>
+  wait(1000).then(() => {
+    setVisible('.content', true);
+    setVisible('.cat', false);
+  }));
+
   // Theme switch
   const body = document.body;
   const lamp = document.getElementById("mode");
