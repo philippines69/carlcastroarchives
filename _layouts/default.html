@@ -7,8 +7,8 @@ layout: compress
 
 <body data-theme="{{ site.mode }}" class="notransition">
 
-  <div class="loader"></div>
-  
+<div class="loader"></div>
+<div class="content">
   <script>
     const body = document.body;
     const data = body.getAttribute("data-theme");
@@ -36,5 +36,6 @@ layout: compress
     </main>
     {% include footer.html %}
   </div>
+</div>    
 </body>
 </html>
