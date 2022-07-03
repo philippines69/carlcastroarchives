@@ -3,10 +3,7 @@ layout: compress
 ---
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: " en " }}">
-{% include header.html %}
-
-<body data-theme="{{ site.mode }}" class="notransition">
-
+ 
   <div class="content">
    <div class="planet">
       <div class="ring"></div>
@@ -24,6 +21,10 @@ layout: compress
    </div>
    <p>loading</p>
 </div>
+  
+{% include header.html %}
+
+<body data-theme="{{ site.mode }}" class="notransition">
   
   <script>
     const body = document.body;
