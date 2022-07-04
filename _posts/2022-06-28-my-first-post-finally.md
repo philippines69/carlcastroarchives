@@ -16,7 +16,7 @@ Literally.
 My butt's sore from sitting all day dealing with all the error messages it spits out.
 
 <figure>
-
+```
     	   		C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/lib/jekyll/commands/serve/servlet.rb:3:in `require': cannot load such file -- webrick (LoadError)
         
     	        from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/lib/jekyll/commands/serve/servlet.rb:3:in `<top (required)>'
@@ -50,4 +50,5 @@ My butt's sore from sitting all day dealing with all the error messages it spits
                 from C:/Ruby31-x64/bin/jekyll:25:in `load'
         
                 from C:/Ruby31-x64/bin/jekyll:25:in `<main>'
+```
       <figcaption>Fig. 2.0 - Case in point</figcaption>
