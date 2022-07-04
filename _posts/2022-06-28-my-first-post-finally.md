@@ -7,7 +7,7 @@ tags:
 - Site Status
 
 ---
-<figure> <img src="https://cdn.discordapp.com/attachments/993410728088305734/993411276170600459/unknown.png" alt="Literally me right now" style="width:500px;"> <figcaption>Fig. 1.0 - Me right now</figcaption> </figure>
+<figure> <img src="https://cdn.discordapp.com/attachments/993410728088305734/993411276170600459/unknown.png" alt="Literally me right now" style="width:600px;"> <figcaption>Fig. 1.0 - Me right now</figcaption> </figure>
 
 Jekyll has been a pain in the butt.
 
