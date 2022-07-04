@@ -17,7 +17,7 @@ Last night, me and my bro finally watched **Marvel's _'Morbius.'_** And I'd say,
 The runtime of 1 hour and 44 minutes wasn't nearly enough. But oh well, I GUESS it's fine as long as they make a sequel.
 
 <figure>
-<img src="https://cdn.discordapp.com/attachments/993410728088305734/993411153181032468/ezgif-5-b701a1102f.gif" alt="Morbius changed me">
+<img src="https://cdn.discordapp.com/attachments/993410728088305734/993411153181032468/ezgif-5-b701a1102f.gif" alt="Morbius changed me" style="width:600px;>
 <figcaption>Fig. 2.0 - Me after Morbius</figcaption>
 </figure>
 
