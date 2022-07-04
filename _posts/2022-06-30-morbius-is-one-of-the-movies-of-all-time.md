@@ -8,7 +8,7 @@ categories: Movies
 
 ---
 <figure>
-<img src="![](https://cdn.discordapp.com/attachments/993410728088305734/993411042946318379/unknown.png)" alt="Morbius sweep">
+<img src="https://cdn.discordapp.com/attachments/993410728088305734/993411042946318379/unknown.png" alt="Morbius sweep">
 <figcaption>Fig. 1.0 - A testament to how groundbreaking this movie is</figcaption>  
 </figure>
 
