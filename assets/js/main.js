@@ -1,5 +1,6 @@
 (() => {
-  //Loading animation
+
+ //Loading animation
   const wait = (delay = 1) =>
   new Promise(resolve => setTimeout(resolve, delay));
 
@@ -47,3 +48,4 @@ document.addEventListener('DOMContentLoaded', () =>
       ? area.classList.add("blurry")
       : area.classList.remove("blurry");
   });
+})();
