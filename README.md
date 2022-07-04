@@ -1,3 +1,3 @@
-I had to learn all the basics of Jekyll and HTML/CSS just to change the background color, please send help 
+My personal blog; a work in progress 
 
 Thanks to [klisé](https://github.com/piharpi/jekyll-klise)!
