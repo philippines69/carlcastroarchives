@@ -24,6 +24,6 @@ My butt's sore from sitting all day dealing with all the error messages it spits
     from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/mercenary-0.4.0/lib/mercenary/program.rb:44:in go' from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/mercenary-0.4.0/lib/mercenary.rb:21:inprogram'
     from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/exe/jekyll:15:in <top (required)>' from C:/Ruby31-x64/bin/jekyll:25:inload'
     from C:/Ruby31-x64/bin/jekyll:25:in `<main>'
-{%endhighlight%}
+{% endhighlight %}
 
 <figcaption>Fig. 2.0 - Case in point</figcaption>
