@@ -10,9 +10,7 @@ tags:
 <figure> <img src="https://cdn.discordapp.com/attachments/993410728088305734/993411276170600459/unknown.png" alt="Literally me right now" style="width:500x;height:500px;"> <figcaption>Fig. 1.0 - Me right now</figcaption> </figure>
 
 Jekyll has been a pain in the butt.
-
 Literally.
-
 My butt's sore from sitting all day dealing with all the error messages it spits out.
 
 <figure>
