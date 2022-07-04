@@ -13,7 +13,7 @@ Jekyll has been a pain in the butt.
 
 Literally.
 
-My butt's sore after weeks of sitting all day to deal with all the error messages it spits out.
+My butt's sore after weeks of sitting to deal with all the error messages it spits out.
 
 {% highlight ruby %}
     C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/lib/jekyll/commands/serve/servlet.rb:3:in require': cannot load such file -- webrick (LoadError) from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/lib/jekyll/commands/serve/servlet.rb:3:in<top (required)>'
