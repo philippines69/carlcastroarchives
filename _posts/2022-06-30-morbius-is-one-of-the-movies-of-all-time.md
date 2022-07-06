@@ -11,6 +11,8 @@ categories: Movies
 
 Last night, I was faced with a predicament; I had to pick a good movie to watch. I was watching it with my 'Lil bro, so the movie must be something BOTH of us could enjoy.
 
+And of course, as what anyone with a sane mind would do, I chose the hit movie '**Morbius**.'
+
 I FINALLY watched Marvel's _'**Morbius**.'_ I'd say, out of all the Marvel movies, Morbius is definitely one of them.
 
 The runtime of 1 hour and 44 minutes simply wasn't enough. But I GUESS it's fine as long as they're working on a sequel.
