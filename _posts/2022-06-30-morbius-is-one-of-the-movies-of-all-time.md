@@ -13,7 +13,7 @@ Last night, I was faced with a predicament: picking a good movie to play on the 
 
 Hmm Hollywood. _Hmmmmmmmmmm_ Marvel! And so, I chose to go with one of Marvel's confusing lineup of films.
 
-I chose the '**_Morbius_**.' Because of course I did.
+Aaaand I chose the '**_Morbius_**.' Because of course I did.
 
 <figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/993758051456798751/unknown_1.png" alt="Morbius sweep" style="width:600px;"> <figcaption>Fig. 1.0 - A testament to how groundbreaking this movie is</figcaption> </figure>
 
