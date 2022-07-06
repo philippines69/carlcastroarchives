@@ -16,4 +16,4 @@ The runtime of 1 hour and 44 minutes simply wasn't enough. But I GUESS it's fine
 <figure>
 <img src="https://cdn.discordapp.com/attachments/993410728088305734/993411153181032468/ezgif-5-b701a1102f.gif" alt="Morbius changed me" style="width:600px;"> <figcaption>Fig. 2.0 - Me after Morbius</figcaption> </figure>
 
-**_I rate this movie a Morbillion/10_**
+_I rate this movie a Morbillion/10_
