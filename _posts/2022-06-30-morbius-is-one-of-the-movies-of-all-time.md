@@ -10,9 +10,9 @@ categories: Movies
 <figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/993758051456798751/unknown_1.png" alt="Morbius sweep" style="width:600px;"> <figcaption>Fig. 1.0 - A testament to how groundbreaking this movie is</figcaption> </figure>
 # Choosing to Morb
 
-Last night, I was faced with a predicament: picking a good movie to play on the TV. Oh, what a tragedy. Tons of Hollywood films to choose from!
+Last night, I was faced with a predicament: picking a good movie to play on the TV. Oh, what a tragedy. Tons of Western films to choose from!
 
-Hmmmm Hollywood. HMMMMM Marvel! And so, I browsed for a movie from Marvel's growing (and confusing) lineup of films.
+"Western. Hollywood. Hmmmm Marvel!" And so, I browsed for a movie from Marvel's growing (and confusing) lineup of films.
 
 Aaaand I chose '**_Morbius_**.' Why? I just thought it'd be funny.
 
