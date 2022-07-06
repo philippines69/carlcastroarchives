@@ -12,7 +12,7 @@ categories: Movies
 
 Last night, I was faced with a predicament: picking a good movie to play on the TV. Oh, what a tragedy. Tons of Western films to choose from!
 
-"Western. Hollywood. Hmmmmmmm. Marvel!" And so, I browsed for a movie from Marvel's growing (and confusing) lineup of films.
+"Western. Hollywood. Hmmmmmmm. Marvel!" And so I narrowed down my picks and browsed a movie from Marvel's growing (and confusing) lineup of films.
 
 Aaaand I chose '**_Morbius_**.' Why? I just thought it'd be funny.
 
