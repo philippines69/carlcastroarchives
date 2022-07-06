@@ -23,4 +23,4 @@ Of all the Marvel movies, I'd say Morbius is definitely one of them. The runtime
 
 Boring. Pretty sh*t. Go watch it.
 
-<figure> <img src="[https://cdn.discordapp.com/attachments/993410728088305734/993411153181032468/ezgif-5-b701a1102f.gif](https://cdn.discordapp.com/attachments/993410728088305734/993411153181032468/ezgif-5-b701a1102f.gif "https://cdn.discordapp.com/attachments/993410728088305734/993411153181032468/ezgif-5-b701a1102f.gif")" alt="Morbius changed me" style="width:600px;"> <figcaption>Fig. 2.0 - Me after Morbius</figcaption> </figure>
+<figure> <img src="https://cdn.discordapp.com/attachments/993410728088305734/993411153181032468/ezgif-5-b701a1102f.gif" alt="Morbius changed me" style="width:600px;"> <figcaption>Fig. 2.0 - Me after Morbius</figcaption> </figure>
