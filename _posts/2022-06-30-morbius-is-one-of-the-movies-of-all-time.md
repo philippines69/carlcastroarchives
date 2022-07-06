@@ -7,11 +7,7 @@ date: 2022-06-30T16:00:00.000+00:00
 categories: Movies
 
 ---
-Last night, I was faced with a predicament; I had to pick a good movie to watch. I was watching it with my 'Lil bro, so the movie must be something BOTH of us could enjoy.
-
-And of course, as what anyone with a sane mind would do, I chose the hit movie '**_Morbius_**.'
-
-Last night, I was faced with a predicament; I had to pick a good movie to watch. I was watching it with my 'Lil bro, so the movie must be something BOTH of us could enjoy.
+Last night, I was faced with a predicament; I had to pick a good movie to watch. I was watching it with my 'lil bro, so the movie must be something BOTH of us could enjoy.
 
 And of course, as what anyone with a sane mind would do, I chose the hit movie '**_Morbius_**.'
 
