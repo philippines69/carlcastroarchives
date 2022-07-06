@@ -9,11 +9,7 @@ tags:
 ---
 <figure> <img src="https://cdn.discordapp.com/attachments/993410728088305734/993757362487828550/unknown.png" alt="Literally me right now" style="width:600px;"> <figcaption>Fig. 1.0 - Me right now</figcaption> </figure>
 
-Jekyll has been a pain in the butt.
-
-Literally.
-
-My butt's sore after weeks of sitting all day to deal with all the error messages it spits out.
+Jekyll has been a pain in the butt. Literally. My butt's sore after weeks of sitting all day to deal with all the error messages it spits out.
 
 {% highlight ruby %}
 C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/lib/jekyll/commands/serve/servlet.rb:3:in require': cannot load such file -- webrick (LoadError) from C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/lib/jekyll/commands/serve/servlet.rb:3:in<top (required)>'
