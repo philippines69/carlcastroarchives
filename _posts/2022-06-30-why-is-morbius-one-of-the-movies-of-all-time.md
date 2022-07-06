@@ -11,9 +11,7 @@ categories: Movies
 
 # Choosing to Morb
 
-Last night, I was faced with a predicament: picking a good movie to play on the TV. Oh, what a dilemma. Tons of western films to choose from!
-
-"Western. Hollywood. Hmmmm. Marvel!" And so I narrowed down my picks and scanned Marvel's growing lineup of films.
+Last night, I was faced with a predicament: picking a good movie to play on the TV. Oh, what a dilemma. Tons of western films to choose from! "Western. Hollywood. Hmmmm. Marvel!" So I narrowed down my picks and scanned Marvel's growing lineup of films.
 
 Aaaand I chose **Morbius**. Why? Cause I thought it'd be funny😂
 
