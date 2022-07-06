@@ -21,4 +21,8 @@ Aaaand I chose '**_Morbius_**.' Why? I just thought it'd be funny.
 
 Of all the Marvel movies, I'd say Morbius is definitely one of them. The runtime of 1 hour and 44 minutes simply wasn't enough. But I GUESS it's fine as long as they're working on a sequel.
 
-_I rate this movie a Morbillion/10_
+# Well Carl, how was it?
+
+It was sh&ast;t. 
+
+_I rate it a Morbillion/10_.
