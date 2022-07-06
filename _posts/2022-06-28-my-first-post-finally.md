@@ -9,10 +9,12 @@ tags:
 ---
 <figure> <img src="https://cdn.discordapp.com/attachments/993410728088305734/993757362487828550/unknown.png" alt="Literally me right now" style="width:600px;"> <figcaption>Fig. 1.0 - Me right now</figcaption> </figure>
 
-Honestly, Jekyll has been a pain in the butt. 
+I've been working on this site for a couple of months now. And honestly? **Jekyll** has been quite a pain in the butt.
 
-Literally. 
+Literally.
 
-My butt's sore after weeks of sitting all day dealing with all the errors it spits out.
+My poor behind has been sore after weeks of sitting all day. The error messages just kept on coming. But hey, you're reading this right now, so I guess it all worked out in the end!
 
-But hey, you're reading this right now, so I guess it all worked out in the end!
+But don't get me wrong, this was an awesome learning experience. I've learned a lot of **CSS**, **HTML**, and a little bit of **Javascript**. I'm starting to think I should scrap my plans of becoming an Engineer and just a programmer instead! It's actually quite fun!
+
+<figure> <img src="https://cdn.discordapp.com/attachments/993410728088305734/994090844019757117/Gifpro_out_fbeabc0fa9ed24e1afceff4a01824cfb.gif" alt="Literally me right now" style="width:600px;"> <figcaption></figcaption> </figure>
