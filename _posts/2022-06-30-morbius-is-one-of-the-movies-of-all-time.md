@@ -9,7 +9,9 @@ categories: Movies
 ---
 <figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/993758051456798751/unknown_1.png" alt="Morbius sweep" style="width:600px;"> <figcaption>Fig. 1.0 - A testament to how groundbreaking this movie is</figcaption> </figure>
 
-Last night's movie night! I FINALLY watched Marvel's _'**Morbius**.'_ I'd say, out of all the Marvel movies, Morbius is definitely one of them.
+Last night, I was faced with a predicament; I had to pick a good movie to watch. I was watching it with my 'lil bro, so the movie must be something both of us could enjoy.
+
+I FINALLY watched Marvel's _'**Morbius**.'_ I'd say, out of all the Marvel movies, Morbius is definitely one of them.
 
 The runtime of 1 hour and 44 minutes simply wasn't enough. But I GUESS it's fine as long as they're working on a sequel.
 
