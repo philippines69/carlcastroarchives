@@ -17,4 +17,4 @@ But hey, you're reading this right now, so I guess it all worked out in the end!
 
 Don't get me wrong; this was an excellent learning experience. I've learned a lot of **CSS**, **HTML**, and some **Javascript** as well. Maybe I should scrap my plans of becoming an engineer and transition into web dev instead! It's quite fun! (Just kidding. Or am I?)
 
-_I think I'll make a post detailing the short but painful journey I took to launch this blog. It'll come out Soon Enough_™
+_I think I'll make a post detailing the short but painful journey it took to launch this blog. It'll come out Soon Enough_™
