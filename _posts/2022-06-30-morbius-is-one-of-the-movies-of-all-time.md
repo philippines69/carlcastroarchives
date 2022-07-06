@@ -24,4 +24,4 @@ Of all the Marvel movies, I'd say Morbius is definitely one of them. The runtime
 
 # Well Carl, how was it?
 
-It was sh*t. Go watch it.
+Boring. Pretty sh*t. Go watch it.
