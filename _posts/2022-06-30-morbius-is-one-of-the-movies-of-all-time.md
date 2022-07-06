@@ -11,7 +11,7 @@ categories: Movies
 
 # Choosing to Morb
 
-Last night, I was faced with a predicament: picking a good movie to play on the TV. Oh, what a tragedy. Tons of Western films to choose from!
+Last night, I was faced with a predicament: picking a good movie to play on the TV. Oh, what a dilemma. Tons of Western films to choose from!
 
 "Western. Hollywood. Hmmmm. Marvel!" And so I narrowed down my picks and browsed a movie from Marvel's growing (and confusing) lineup of films.
 
