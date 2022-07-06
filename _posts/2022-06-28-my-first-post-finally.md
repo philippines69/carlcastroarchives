@@ -17,6 +17,6 @@ My poor behind has been sore after weeks of sitting all day. The error messages 
 
 <figure> <img src="https://cdn.discordapp.com/attachments/993410728088305734/994090844019757117/Gifpro_out_fbeabc0fa9ed24e1afceff4a01824cfb.gif" alt="Literally me right now" style="width:600px;"> <figcaption></figcaption> </figure>
 
-Don't get me wrong, this was an awesome learning experience. I've learned a lot of **CSS**, **HTML**, and some **Javascript** as well. I'm starting to think I should scrap my plans of becoming an Engineer and transition into a Webdev instead! It's actually quite fun!
+Don't get me wrong, this was an awesome learning experience. I've learned a lot of **CSS**, **HTML**, and some **Javascript** as well. I'm starting to think I should scrap my plans of becoming an engineer and transition into a webdev instead! It's actually quite fun!
 
 
