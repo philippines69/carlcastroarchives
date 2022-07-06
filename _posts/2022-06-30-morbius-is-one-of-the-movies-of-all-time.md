@@ -12,7 +12,7 @@ categories: Movies
 
 Last night, I was faced with a predicament: picking a good movie to play on the TV. Oh, what a tragedy. Tons of Hollywood films to choose from!
 
-Hmmmmmm Hollywood. _Hmmmmmmmmmm_ Marvel! And so, I browsed for a movie from Marvel's growing (and confusing) lineup of films.
+Hmmmm Hollywood. HMMMMM Marvel! And so, I browsed for a movie from Marvel's growing (and confusing) lineup of films.
 
 Aaaand I chose '**_Morbius_**.' Why? I just thought it'd be funny.
 
@@ -23,6 +23,6 @@ Of all the Marvel movies, I'd say Morbius is definitely one of them. The runtime
 
 # Well Carl, how was it?
 
-It was sh&ast;t. 
+It was sh&ast;t. Go watch it. 
 
 _I rate it a Morbillion/10_.
