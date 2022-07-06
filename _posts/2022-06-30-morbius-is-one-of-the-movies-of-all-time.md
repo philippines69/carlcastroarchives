@@ -2,11 +2,13 @@
 tags:
 - Movies
 layout: post
-title: Morbius is one of the movies of all time
+title: Why is Morbius one of the movies of all time?
 date: 2022-06-30T16:00:00.000+00:00
 categories: Movies
 
 ---
+# Movie Night
+
 Last night, I was faced with a predicament; I had to pick a good movie to watch. I watched it with my 'lil bro, so it must be something BOTH of us could enjoy.
 
 And of course, as what anyone with a sane mind would do, I chose the hit movie '**_Morbius_**.'
