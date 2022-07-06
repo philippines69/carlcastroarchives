@@ -16,3 +16,5 @@ But hey, you're reading this right now, so I guess it all worked out in the end!
 <figure> <img src="https://cdn.discordapp.com/attachments/993410728088305734/994097955193761892/brent-rambo-ok.gif" alt="Also me right now" style="width:600px;"> <figcaption>Fig. 2.0 - Also me right now</figcaption> </figure>
 
 Don't get me wrong, this was an awesome learning experience. I've learned a lot of **CSS**, **HTML**, and some **Javascript** as well. I'm starting to think I should scrap my plans of becoming an engineer and transition into web dev instead! It's actually quite fun!
+
+_I think I'll make a post on how I made this blog._ 
