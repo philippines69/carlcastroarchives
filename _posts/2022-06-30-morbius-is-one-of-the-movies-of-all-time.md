@@ -15,7 +15,7 @@ Last night, I was faced with a predicament: picking a good movie to play on the 
 
 "Western. Hollywood. Hmmmm. Marvel!" And so I narrowed down my picks and browsed Marvel's growing (and increasingly complicated) lineup of films.
 
-Aaaand I chose **_Morbius_**. Why? I thought it'd be funny.
+Aaaand I chose **_Morbius_**. Why? Cause I thought it'd be funny.
 
 Of all the Marvel movies, I'd say Morbius is definitely one of them. The runtime of 1 hour and 44 minutes simply wasn't enough. But I GUESS it's fine as long as they're working on a sequel.
 
