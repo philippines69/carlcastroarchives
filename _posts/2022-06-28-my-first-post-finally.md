@@ -17,4 +17,4 @@ But hey, you're reading this right now, so I guess it all worked out in the end!
 
 Don't get me wrong; this was an excellent learning experience. I've learned a lot of [**CSS**](https://developer.mozilla.org/en-US/docs/Web/css), [**HTML**](https://developer.mozilla.org/en-US/docs/Web/HTML), and some [**Javascript**](https://developer.mozilla.org/en-US/docs/Web/javascript). Maybe I should scrap my plans on becoming an engineer and transition into web dev instead! It's quite fun! (I'm kidding. Or am I?)
 
-_I think I'll make a post detailing the journey it took to launch this blog. It'll come out Soon Enough_™
+_I'll make a post detailing the journey it took to launch this blog. It'll come out Soon Enough_™
