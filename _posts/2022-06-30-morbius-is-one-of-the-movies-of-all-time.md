@@ -9,7 +9,7 @@ categories: Movies
 ---
 # Movie Night
 
-Last night, I was faced with a predicament: picking a good movie to play for the family. Oh what a tragedy. Tons of Hollywood films to choose from!
+Last night, I was faced with a predicament: picking a good movie to play on the bedroom TV. Oh what a tragedy. Tons of Hollywood films to choose from!
 
 Hmm Hollywood. _Hmmmmmmmmmm_ Marvel! And so, I chose to go with one of Marvel's confusing lineup of films.
 
