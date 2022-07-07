@@ -10,7 +10,7 @@ comments: false
 ---
 # 
 
-<figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/994583866834690159/shutterstock_277260635-by-perfect-lazybones-650x365.jpg" alt="Mountain scenery" style="width:600px;"> <figcaption>Fig. 1.0 - Here's a random image from Google, enjoy</figcaption> </figure>
+<figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/994583866834690159/shutterstock_277260635-by-perfect-lazybones-650x365.jpg" alt="Mountain scenery" style="width:600px;"> <figcaption>Fig. 1.0 - Here's a random image from Google</figcaption> </figure>
 
 # About me
 
