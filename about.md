@@ -8,6 +8,8 @@ excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in
 comments: false
 
 ---
+# Who are you?
+
 Hey there!
 
-The name's Carl. An engineering freshman venturing out on the interwebs, looking for ways to help his _meh_ financial situation (aren't we all?). 
+The name's Carl. I'm an engineering freshman from the Philippines. Come visit, it's definitely a GLORIOUS and PROSPEROUS country.
