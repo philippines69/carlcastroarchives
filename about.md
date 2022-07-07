@@ -8,11 +8,11 @@ excerpt: 'The name''s Carl. I''m an engineering freshman (if that adds to anythi
 comments: false
 
 ---
-# About me
+
 
 <figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/994583866834690159/shutterstock_277260635-by-perfect-lazybones-650x365.jpg" alt="Mountain scenery" style="width:600px;"> <figcaption>Fig. 1.0 - Here's a random image from Google</figcaption> </figure>
 
-
+# About me
 
 The name's Carl. I'm an engineering freshman (if that adds to anything) living in Zamboanga Peninsula, Philippines. I created this blog/site as an avenue to better display my skills/experiences/quirks in a more 'personalized' way.
 
