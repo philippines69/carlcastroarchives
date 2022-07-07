@@ -2,9 +2,9 @@
 title: About
 permalink: "/about/"
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta.
-  This blog for documentation about my programming journey, running on jekyll, hosting
-  on netlify and using my own simple theme.
+excerpt: 'The name''s Carl. I''m an engineering freshman (if that adds to anything)
+  living in Zamboanga Peninsula, Philippines. I created this blog/site as an avenue
+  to better display my skills/experiences/quirks in a more ''personalized'' way. '
 comments: false
 
 ---
