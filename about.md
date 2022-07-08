@@ -1,5 +1,5 @@
 ---
-title: Hi, I'm Carl Robin Castro
+title: Hi, I'm Carl Castro
 permalink: "/about/"
 layout: page
 excerpt: 'The name''s Carl. I''m an engineering freshman (if that adds to anything)
