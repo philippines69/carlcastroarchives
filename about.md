@@ -16,7 +16,7 @@ You can call me Carl! I'm an engineering freshman (if it adds to anything) livin
 
 I do this mainly for my folks at home (sounds cliché, I know). I'm still figuring out what I'd like to do in this wide (and scary) world that is freelancing, so I've been trying a lot of stuff in the past year. Learn more about this [here.]()
 
-# ...Electronics Geek
+# ...Electronics geek
 
 I just love tinkering with electronics. That's why I said, "screw it" and chose to pursue an EE degree. My good father's an electronics technician, so you can see where I got my enthusiasm from.
 
