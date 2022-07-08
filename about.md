@@ -8,7 +8,7 @@ excerpt: 'The name''s Carl. I''m an engineering freshman (if that adds to anythi
 comments: false
 
 ---
-<figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/994612888780165200/Pink-Sand-Beach-in-Sta-Cruz-Island_1.jpg" alt="Zamboanga's Pink Beach" style="width:1000px;"> <figcaption>😳</figcaption> </figure>
+<figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/994612888780165200/Pink-Sand-Beach-in-Sta-Cruz-Island_1.jpg" alt="Zamboanga's Pink Beach" style="width:300px;"> <figcaption>😳</figcaption> </figure>
 
 Who am I
 
