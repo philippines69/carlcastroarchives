@@ -10,7 +10,7 @@ comments: false
 ---
 <figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/994612888780165200/Pink-Sand-Beach-in-Sta-Cruz-Island_1.jpg" alt="Zamboanga's Pink Beach" style="width:300px;"> <figcaption>😳</figcaption> </figure>
 
-Who am I
+Who am I..
 
 You can call me Carl! I'm an engineering freshman (if it adds to anything) living in Zamboanga Peninsula, Philippines. I created this blog/site as an avenue to display my skills/experiences/quirks in a more 'personalized' way.
 
