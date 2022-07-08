@@ -24,7 +24,7 @@ I just love tinkering with electronics. That's why I said, "screw it" and chose 
 
 Nothing fancy, just wrote scripts for a couple of YouTube channels. I started in late October of 2021 and it's been ongoing ever since. The job's been a great learning experience for me; I'd like to think it helped improve my hopeless grammar. Writing scripts for dirt-cheap has also primed my skills for freelancing work, as connecting with clients helped me be more 'sociable.'
 
-# ...Trusty Digital Wingman
+# ...Trusty digital wingman
 
 A pretentious way of saying 'Virtual assistant.' I worked as an assistant for a family member's online business. Got a better grasp on the basic apps such as Google Docs, Sheets, and Gmail. I also worked with customer fulfillment; I've had my fair share of experiences with all types of customers. It was still a fun experience nevertheless.
 
