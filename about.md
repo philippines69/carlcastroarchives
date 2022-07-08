@@ -36,6 +36,6 @@ I'm basically still a toddler for these things, so I used a theme called [Klisé
 
 # ...Music/Anime normie
 
-I just HAD to mention it. It's part of who I am! 
+I HAD to mention it. It's part of who I am! 
 
 # Where to find me
