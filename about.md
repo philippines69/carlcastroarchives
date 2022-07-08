@@ -26,12 +26,16 @@ Nothing fancy, just wrote scripts for a couple of YouTube channels. I started in
 
 # ...Trusty Digital Wingman
 
-A fancy way of saying 'Virtual assistant.' I worked as an assistant for a family member's online business. Got a better grasp on the basic apps such as Google Docs, Sheets, and Gmail. I also worked with customer fulfillment; I've had my fair share of experiences with all types of customers. It was still a fun experience nevertheless.
+A pretentious way of saying 'Virtual assistant.' I worked as an assistant for a family member's online business. Got a better grasp on the basic apps such as Google Docs, Sheets, and Gmail. I also worked with customer fulfillment; I've had my fair share of experiences with all types of customers. It was still a fun experience nevertheless.
 
 # ...Web dev tenderfoot
 
 I chose to build this site with [Jekyll](https://jekyllrb.com/); a static site generator used to build websites using [Markdown](https://en.wikipedia.org/wiki/Markdown), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/css), and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript). I'm hosting it on [Cloudflare Pages](https://pages.cloudflare.com/). I used to host it on Netlify, but I chose to migrate since I've also been using Cloudflare's CDN. And yeah, to make blogging a bit more painless, I use a CMS called [Forestry](https://forestry.io/). 
 
 I'm basically still a toddler for these things, so I used a theme called [Klisé](https://github.com/piharpi/jekyll-klise). Could've used something better-documented, but something about this theme just made me fall in love with it. 
+
+# ...Music/Anime normie
+
+I HAD to mention it. 
 
 # Where to find me
