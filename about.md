@@ -36,8 +36,8 @@ I'm basically still a toddler for these things, so I used a theme called [Klisé
 
 # ...Music/Anime normie
 
-I HAD to mention it. It's part of who I am! Find my music recs [here](https://www.carlcastroarchives.ml/archive/#Music). 
+I HAD to mention it. It's part of who I am! 
 
-Aaand my anime profile [here]().
+Find my music recs [here](https://www.carlcastroarchives.ml/archive/#Music). Aaand my anime profile [here]().
 
 # Where to find me
