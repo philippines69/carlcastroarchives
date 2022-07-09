@@ -30,12 +30,18 @@ A pretentious way of saying 'Virtual assistant.' I worked as an assistant for a 
 
 # ...Web dev newbie
 
-I chose to build this site with [Jekyll](https://jekyllrb.com/); a static site generator used to build websites using [Markdown](https://en.wikipedia.org/wiki/Markdown), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/css), and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript). I'm hosting it on [Cloudflare Pages](https://pages.cloudflare.com/). I used to host it on Netlify, but I chose to migrate since I've also been using Cloudflare's CDN. And yeah, to make blogging a bit more painless, I use a CMS called [Forestry](https://forestry.io/). 
+I chose to build this site with [Jekyll](https://jekyllrb.com/); a static site generator used to build websites using [Markdown](https://en.wikipedia.org/wiki/Markdown), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/css), and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript). I'm hosting it on [Cloudflare Pages](https://pages.cloudflare.com/). I used to host it on Netlify, but I chose to migrate since I've also been using Cloudflare's CDN. And yeah, to make blogging a bit more painless, I use a CMS called [Forestry](https://forestry.io/).
 
-I'm basically still a toddler for these things, so I used a theme called [Klisé](https://github.com/piharpi/jekyll-klise). Could've used something better-documented, but something about this theme just made me fall in love with it. 
+I'm basically still a toddler for these things, so I used a theme called [Klisé](https://github.com/piharpi/jekyll-klise). Could've used something better-documented, but something about this theme just made me fall in love with it.
 
 # ...Music/Anime normie
 
-I HAD to mention it. It's part of who I am! 
+I HAD to mention it. It's part of who I am!
+
+## Music
+
+I ain't that much of a 'music snob,' I just like good music. My tastes depend on my mood (as with everybody); lofi stuff when I'm working on something and rap when I want to release some pent-up anger. Find my music recs [here](https://www.carlcastroarchives.ml/archive/#Music).
+
+## Anime
 
 # Where to find me
