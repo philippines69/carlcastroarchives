@@ -36,14 +36,8 @@ I'm basically still a toddler for these things, so I used a theme called [Klisé
 
 # ...Music/Anime normie
 
-I HAD to mention it. It's part of who I am!
+I HAD to mention it. It's part of who I am! Find my music recs [here](https://www.carlcastroarchives.ml/archive/#Music). 
 
-* **Music**
-
-I ain't that much of a 'music snob,' I just like good music. My tastes depend on my mood (as with everybody); lofi stuff when I'm working on something and rap when I want to release some pent-up anger. Find my music recs [here](https://www.carlcastroarchives.ml/archive/#Music).
-
-* **Anime**
-
-Iman
+Aaand my anime profile [here]().
 
 # Where to find me
