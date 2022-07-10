@@ -34,7 +34,7 @@ setVisible('.content', false);
 setVisible('.cat', true);
 
 document.addEventListener('DOMContentLoaded', () =>
-  wait(1000).then(() => {
+  wait(500).then(() => {
     setVisible('.content', true);
     setVisible('.cat', false);
   }));
