@@ -48,6 +48,11 @@ I HAD to mention it. It's part of who I am! Find my music recs [here](https://ww
 ### Socials:
 
 * [Facebook](https://www.facebook.com/castro.carl1998/)
+* [LinkedIn](https://www.linkedin.com/in/castrocarl1999/)
+
+### Email:
+
+* [carlrobincastro@gmail.com](carlrobincastro@gmail.com)
 
 ### Anime:
 
