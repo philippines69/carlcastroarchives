@@ -38,4 +38,17 @@ I'm basically still a toddler for these things, so I used a theme called [Klisé
 
 I HAD to mention it. It's part of who I am! Find my music recs [here](https://www.carlcastroarchives.ml/archive/#Music). And my anime (AniList) profile's down below.
 
-# Where to find me
+# **Where to find me**
+
+### Job sites: 
+
+* [OnlineJobs.ph](https://www.onlinejobs.ph/jobseekers/info/1800089)
+* [Upwork](https://www.upwork.com/freelancers/\~01d8748133df2688d5)
+
+### Socials:
+
+* [Facebook](https://www.facebook.com/castro.carl1998/)
+
+### Anime:
+
+* [AniList](https://anilist.co/user/Rumpelforeskin/)
