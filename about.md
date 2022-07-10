@@ -49,6 +49,7 @@ I HAD to mention it. It's part of who I am! Find my music recs [here](https://ww
 
 * [Facebook](https://www.facebook.com/castro.carl1998/)
 * [LinkedIn](https://www.linkedin.com/in/castrocarl1999/)
+* [GitHub](https://github.com/philippines69)
 
 ### Email:
 
