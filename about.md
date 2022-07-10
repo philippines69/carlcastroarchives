@@ -53,7 +53,7 @@ I HAD to mention it. It's part of who I am! Find my music recs [here](https://ww
 
 ### Email:
 
-* [carlrobincastro@gmail.com](carlrobincastro@gmail.com)
+* [carlrobincastro@gmail.com](mailto:carlrobincastro@gmail.com)
 
 ### Anime:
 
