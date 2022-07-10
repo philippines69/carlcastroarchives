@@ -39,6 +39,7 @@ I'm basically still a toddler for these things, so I used a theme called [Klisé
 I HAD to mention it. It's part of who I am! Find my music recs [here](https://www.carlcastroarchives.ml/archive/#Music). And my anime (AniList) profile's down below.
 
 <center> <h1> Where to find me </center> </h1>
+<h1 style="text-align: center;"> Where to find me </h1>
 
 ### Job sites: 
 
