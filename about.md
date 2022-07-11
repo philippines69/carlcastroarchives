@@ -43,8 +43,8 @@ I HAD to mention it. It's part of who I am! Find my music recs [here](https://ww
 ### Job sites: 
 
 * [OnlineJobs.ph](https://www.onlinejobs.ph/jobseekers/info/1800089)
-<p><img src="/assets/img/about-images/onlinejobs.ico" alt="OnlineJobs.ph"/><a href="https://www.onlinejobs.ph/jobseekers/info/1800089">OnlineJobs.ph!</a></p>
-* [Upwork](https://www.upwork.com/freelancers/\~01d8748133df2688d5)
+<p><img src="/assets/img/about-images/onlinejobs.ico" alt="OnlineJobs.ph"/><a href="https://www.onlinejobs.ph/jobseekers/info/1800089"> OnlineJobs.ph</a></p>
+* [Upwork](https://www.upwork.com/freelancers/~01d8748133df2688d5)
 
 ### Socials:
 
