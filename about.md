@@ -34,17 +34,17 @@ I chose to build this site with [Jekyll](https://jekyllrb.com/); a static site g
 
 I'm basically still a toddler for these things, so I used a theme called [Klisé](https://github.com/piharpi/jekyll-klise). Could've used something better-documented, but something about this theme just made me fall in love with it.
 
-# ...Music/Anime normie
+# ...Anime normie
 
-I HAD to mention it. It's part of who I am! Find my music recs [here](https://www.carlcastroarchives.ml/archive/#Music). And my anime (AniList) profile's down below.
+I HAD to mention it. It's part of who I am! Pretty new to this; started back in 2020. Find my anime (AniList) profile down below.
 
 <h1 style="text-align: center;"> Where to find me </h1>
 
-### Job sites: 
+### Job sites:
 
 * [OnlineJobs.ph](https://www.onlinejobs.ph/jobseekers/info/1800089)
-<p><img src="/assets/img/about-images/onlinejobs.ico" alt="OnlineJobs.ph"/><a href="https://www.onlinejobs.ph/jobseekers/info/1800089"> OnlineJobs.ph</a></p>
-* [Upwork](https://www.upwork.com/freelancers/~01d8748133df2688d5)
+  <p><img src="/assets/img/about-images/onlinejobs.ico" alt="OnlineJobs.ph"/><a href="https://www.onlinejobs.ph/jobseekers/info/1800089"> OnlineJobs.ph</a></p>
+* [Upwork](https://www.upwork.com/freelancers/\~01d8748133df2688d5)
 
 ### Socials:
 
