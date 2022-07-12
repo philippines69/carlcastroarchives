@@ -43,18 +43,17 @@ I HAD to mention it. It's part of who I am! Pretty new to this; started back in 
 ### Job sites:
 <p><img src="/assets/img/about/onlinejobs.png" alt="OnlineJobs.ph" style="width:24px;"/><a href="https://www.onlinejobs.ph/jobseekers/info/1800089"> OnlineJobs.ph</a></p>
 <p><img src="/assets/img/about/upwork.png" alt="Upwork" style="width:24px;"/><a href="https://www.upwork.com/freelancers/\~01d8748133df2688d5"> Upwork</a></p>
-* [Upwork]()
 
 ### Socials:
 
-* [Facebook](https://www.facebook.com/castro.carl1998/)
-* [LinkedIn](https://www.linkedin.com/in/castrocarl1999/)
-* [GitHub](https://github.com/philippines69)
+<p><img src="/assets/img/about/facebook.png" alt="Facebook" style="width:24px;"/><a href="https://www.facebook.com/castro.carl1998/"> Facebook</a></p>
+<p><img src="/assets/img/about/linkedin.png" alt="LinkedIn" style="width:24px;"/><a href="https://www.linkedin.com/in/castrocarl1999/"> LinkedIn</a></p>
+<p><img src="/assets/img/about/github.png" alt="GitHub" style="width:24px;"/><a href="https://github.com/philippines69"> GitHub</a></p>
 
 ### Email:
 
-* [carlrobincastro@gmail.com](mailto:carlrobincastro@gmail.com)
+<p><img src="/assets/img/about/gmail.png" alt="GitHub" style="width:24px;"/><a href="mailto:carlrobincastro@gmail.com"> carlrobincastro@gmail.com</a></p>
 
 ### Anime:
 
-* [AniList](https://anilist.co/user/Rumpelforeskin/)
+<p><img src="/assets/img/about/anilist.png" alt="AniList" style="width:24px;"/><a href="https://anilist.co/user/Rumpelforeskin/"> AniList</a></p>
