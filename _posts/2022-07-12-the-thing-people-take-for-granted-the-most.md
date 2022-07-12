@@ -12,7 +12,7 @@ categories: Personal, 12am thoughts
 
 Life. The life we have right now.
 
-In all my years, never once have I experienced death in close proximity. Was I a privileged bastard? Maybe. But then 2022 came and morphed into an edgy teenager thinking he's so cool 'cause he's built differently (mass shootings, COVID, [Sana](https://www.youtube.com/channel/UCsUj0dszADCGbF3gNrQEuSQ)'s graduation, and now you're telling me another close relative's dead?) It's been a rough year.
+In all my years, never once have I experienced death in close proximity. Was I a privileged bastard? Maybe. But then 2022 came and morphed into an edgy teenager thinking he's so cool 'cause he's built differently (mass shootings, COVID, [Sana](https://www.youtube.com/channel/UCsUj0dszADCGbF3gNrQEuSQ)'s graduation, and now you're telling me another relative's dead?) It's been a rough year.
 
 I have no idea what my point is exactly. This night's just different, as another person very dear to me has departed. After hearing the news, something inside me simply just _snapped_; all my worries felt meaningless in an instant. I felt existential enlightenment. It felt like this year has been so shit on the grander scale that my problems felt so.. _small_. I think it'll wear out though, that's why I quickly opened Forestry and wrote down my thoughts.
 
