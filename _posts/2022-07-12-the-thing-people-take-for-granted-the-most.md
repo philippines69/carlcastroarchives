@@ -22,4 +22,4 @@ Life's so fragile. In one moment something might happen that would fuck up every
 
 Maybe there's a reason why the quote above is so overused. Maybe all those 'motivational speakers' were right and maybe they were onto something. 
 
-What I just said was pretty cliche but naaaaahh enlightenment is such a rare experience so I'd rather make the most out of it.
+What I just said was pretty cliche but naaaaahh enlightenment is such a rare experience so I'd rather make the most out of it. Bye👋
