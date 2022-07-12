@@ -41,7 +41,6 @@ I HAD to mention it. It's part of who I am! Pretty new to this; started back in 
 <h1 style="text-align: center;"> Where to find me </h1>
 
 ### Job sites:
-
 <p><img src="/assets/img/about-images/onlinejobs.ico" alt="OnlineJobs.ph" style="width:24px;"/><a href="https://www.onlinejobs.ph/jobseekers/info/1800089"> OnlineJobs.ph</a></p>
 * [Upwork](https://www.upwork.com/freelancers/\~01d8748133df2688d5)
 
