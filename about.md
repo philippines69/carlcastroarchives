@@ -42,7 +42,8 @@ I HAD to mention it. It's part of who I am! Pretty new to this; started back in 
 
 ### Job sites:
 <p><img src="/assets/img/about/onlinejobs.png" alt="OnlineJobs.ph" style="width:24px;"/><a href="https://www.onlinejobs.ph/jobseekers/info/1800089"> OnlineJobs.ph</a></p>
-* [Upwork](https://www.upwork.com/freelancers/\~01d8748133df2688d5)
+<p><img src="/assets/img/about/upwork.png" alt="Upwork" style="width:24px;"/><a href="https://www.upwork.com/freelancers/\~01d8748133df2688d5"> Upwork</a></p>
+* [Upwork]()
 
 ### Socials:
 
