@@ -18,7 +18,7 @@ I have no idea what my point is exactly. This night's just different, as another
 
 Life's so fragile. In one moment something might happen that would fuck up everything you've been trying to build your entire life.
 
-<figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/996463792986804304/Minimalist_Simple_Motivational_Quote_Instagram_Post.jpg" alt="Overused" style="width:600px;"> <figcaption>A motivational quote that's frankly quite overused</figcaption> </figure>
+<figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/996463792986804304/Minimalist_Simple_Motivational_Quote_Instagram_Post.jpg" alt="Overused" style="width:400px;"> <figcaption>A motivational quote that's frankly quite overused</figcaption> </figure>
 
 Maybe there's a reason why the quote above is so overused. Maybe all those 'motivational speakers' were right and maybe they were onto something.
 
