@@ -24,4 +24,4 @@ Maybe there's a good reason why the quote is so worn out. Maybe all those 'motiv
 
 What I just said was pretty cliche but naaaaahh enlightenment is such a rare experience so I'd rather **make the most out of it**. Bye👋
 
-_Forgive me my thoughts are quite jumbled I can't relay them properly bruh lmao istg ngl_
+_Forgive me my thoughts are quite jumbled I can't relay them properly bruh lmao istg ngl tho_
