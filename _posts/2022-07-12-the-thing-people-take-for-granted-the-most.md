@@ -6,7 +6,7 @@ layout: post
 title: 2022 ain't a good year ngl istg fr fr tho
 date: 2022-07-12 16:00:00 +0000
 categories: Personal, 12am thoughts
-permalink: 2022 ain't a good year ngl istg fr fr tho
+permalink: "/2022-ain't-a-good-year-AT-ALL/"
 
 ---
 <figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/996455238980612248/0_GEZDqwMQqsdNegms.jpg" alt="The Scream" style="width:400px;"> <figcaption>“The Scream” by Edvard Munch</figcaption> </figure>
