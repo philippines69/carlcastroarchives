@@ -12,8 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Carl Castro # author name
   bio: >- # tell to the world
-  Welcome to my internet safe place. See as I document my <a href="https://youtu.be/cPCLFtxpadE">bizarre adventures</a>
-      
+  Welcome to my internet safe place. See as I document my <a href="https://youtu.be/cPCLFtxpadE">bizarre adventures</a>     
   username: username # general username
   github: github_username # github username
   twitter: twitter_username # twitter username
