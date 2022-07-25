@@ -10,7 +10,7 @@ comments: false
 ---
 # Who I am...
 
-You can call me Carl! I'm an engineering freshman (if it adds to anything) living in Zamboanga Peninsula, Philippines. I created this blog/site as an avenue to display my skills/experiences/quirks in a more 'personalized' way.
+You can call me Carl! I'm an engineering freshman (if that adds to anything) living in Zamboanga Peninsula, Philippines. I created this blog/site as an avenue to display my skills/experiences/quirks in a more 'personalized' way.
 
 # ...Freelancer
 
@@ -18,7 +18,7 @@ I do this mainly for my folks at home. I'm still figuring out what I'd like to d
 
 # ...Electronics...Geek?
 
-I like electronics. That's why I chose to pursue an EE degree. My dad's an electronics technician, so I guess it runs in the family.
+I like electronics. That's why I'm pursuing an EE degree. My dad's a technician for electronics, so I guess it runs in the family.
 
 # ...Scriptwriter
 
@@ -26,13 +26,13 @@ Nothing fancy, just wrote scripts for a couple of YouTube channels. It started i
 
 # ...Trusty digital wingman
 
-A pretentious way of saying 'Virtual assistant.' I worked as an assistant for a family member's online business. Got a better grasp on the basic apps such as Google Docs, Sheets, and Gmail. I also had my fair share of experiences with all types of customers.
+A pretentious way of saying 'Virtual assistant.' I worked as an assistant for a relative's online business. Got a better grasp on the basic apps such as Google Docs, Sheets, and Gmail. I also had my fair share of experiences with all types of customers.
 
 # ...Web dev newbie
 
-I chose to build this site with [Jekyll](https://jekyllrb.com/); a static site generator used to build websites using [Markdown](https://en.wikipedia.org/wiki/Markdown), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/css), and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript). I'm hosting it on [Cloudflare Pages](https://pages.cloudflare.com/). I used to host it on Netlify, but I chose to migrate since I've also been using Cloudflare's CDN. And yeah, to make blogging a bit more painless, I use a CMS called [Forestry](https://forestry.io/).
+I chose to build this site with [Jekyll](https://jekyllrb.com/); a static site generator used to build websites using [Markdown](https://en.wikipedia.org/wiki/Markdown), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/css), and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript). I'm hosting it on [Cloudflare Pages](https://pages.cloudflare.com/). I used to host it on Netlify, but I chose to migrate since I've also been using Cloudflare's CDN. To make blogging a bit more painless, I use a CMS called [Forestry](https://forestry.io/).
 
-I'm still a toddler for these things, so I used a theme called [Klisé](https://github.com/piharpi/jekyll-klise).
+I'm still a toddler for these things, so I chose to use a theme called [Klisé](https://github.com/piharpi/jekyll-klise).
 
 # ...Anime normie
 
