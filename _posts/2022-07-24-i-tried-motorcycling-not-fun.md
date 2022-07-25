@@ -17,7 +17,7 @@ I live in a third-world country. Motorcycles are the go-to vehicles here. It's:
 2. Traffic is a bit more painless (you zoom past it)
 3. You get to smell your surroundings (exhaust smoke yum)
 
-And so I tried learning to ride one. I was commuting to uni before this, and so decided to love my body (and sanity) more by saying _sayonara_ to all the packed and _shtingky_ jeepneys.
+And so I tried learning one. I was commuting to uni before this, and so decided to love my body (and sanity) more by saying _sayonara_ to all the packed and _shtingky_ jeepneys.
 
 That was the plan, anyway. Never thought it would be this hard though. Controlling the throttle was one thing, now I have to learn 700 different bits and parts just to 'familiarize' how the whole thing works. Nah fam, I don't think I will.
 
