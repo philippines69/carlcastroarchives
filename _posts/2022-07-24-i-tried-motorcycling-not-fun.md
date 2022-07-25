@@ -21,7 +21,7 @@ And so I tried learning one. I was commuting to uni before this, so I decided I 
 
 That was the plan, anyway. Never thought it would be this hard. They always say "it's just like riding a bicycle." It totally did NOT feel like riding a plain ol' bike. Controlling the throttle was one thing, now I have to learn 700 different bits and pieces just to 'familiarize' how the whole thing works. Nah fam, I don't think I will.
 
-But anyways, I'll probably do alright. Here's a bike-related meme though.
+But anyway, I'll probably do alright. Here's a bike-related meme though.
 
 <figure> <video width="600px" controls>
 <source src="https://cdn.discordapp.com/attachments/993410728088305734/1001126129924571296/The_level_of_petty_I_aspire_to_be_-_motorcycles.mp4" type="video/mp4">
