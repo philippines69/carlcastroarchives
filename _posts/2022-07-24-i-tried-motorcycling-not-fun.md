@@ -19,7 +19,7 @@ I live in a third-world country. Motorcycles are the go-to vehicles here. It's:
 
 And so I tried learning one. I was commuting to uni before this, so I decided I would finally let my sanity back by saying _sayonara_ to all the packed and **_shtingky_** jeepneys.
 
-That was the plan, anyway. Never thought it would be this hard though. Controlling the throttle was one thing, now I have to learn 700 different bits and parts just to 'familiarize' how the whole thing works. Nah fam, I don't think I will.
+That was the plan, anyway. Never thought it would be this hard. Controlling the throttle was one thing, now I have to learn 700 different bits and parts just to 'familiarize' how the whole thing works. Nah fam, I don't think I will.
 
 But anyways, I'll probably do alright. Here's a bike-related meme though.
 
