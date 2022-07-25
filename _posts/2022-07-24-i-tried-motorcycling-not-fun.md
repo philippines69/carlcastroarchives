@@ -7,7 +7,7 @@ date: 2022-07-24 16:00:00 +0000
 categories: Personal
 
 ---
-<figure> <img src="https://cdn.discordapp.com/attachments/993410728088305734/1001121939278024714/aa1d8aa476f29db36e43dbd9cbb98eff.jpg" alt="Motcycle" style="width:600px;"> <figcaption>...</figcaption> </figure>
+<figure> <img src="https://cdn.discordapp.com/attachments/993410728088305734/1001121939278024714/aa1d8aa476f29db36e43dbd9cbb98eff.jpg" alt="Motcycle" style="width:400px;"> <figcaption>...</figcaption> </figure>
 
 # I live in
 
