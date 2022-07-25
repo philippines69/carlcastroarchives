@@ -12,8 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Carl Castro # author name
   bio: >- # tell to the world
-      He considers this his internet 'safe space' where he can express his inner self (he loves anime).
-      See as this dude documents his [bizarre adventures](https://youtu.be/wE_kjnNuf0w). Welcome to my internet safe place (boohoo amirite). See as I document some of my <a href="https://youtu.be/cPCLFtxpadE">bizarre adventures</a>
+  Welcome to my internet safe place (boohoo amirite). See as I document some of my <a href="https://youtu.be/cPCLFtxpadE">bizarre adventures</a>
       
   username: username # general username
   github: github_username # github username
