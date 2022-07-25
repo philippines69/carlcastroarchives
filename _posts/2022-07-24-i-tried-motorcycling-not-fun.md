@@ -27,4 +27,4 @@ But anyway, I'll probably do alright. Here's a bike-related meme though.
 <source src="https://cdn.discordapp.com/attachments/993410728088305734/1001126129924571296/The_level_of_petty_I_aspire_to_be_-_motorcycles.mp4" type="video/mp4">
 Your browser does not support the video tag.💀😭😭
 </video>
-<figcaption>Source: [u/Visible_Potato2547](https://www.reddit.com/r/motorcycles/comments/w7bf1l/the_level_of_petty_i_aspire_to_be/)</figcaption> </figure>
+<figcaption>Source: <a href="https://www.reddit.com/r/motorcycles/comments/w7bf1l/the_level_of_petty_i_aspire_to_be/">u/Visible_Potato2547</a></figcaption> </figure>
