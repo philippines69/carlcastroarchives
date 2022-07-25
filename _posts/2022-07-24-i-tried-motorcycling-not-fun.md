@@ -14,7 +14,7 @@ categories: Personal
 I live in a third-world country. Motorcycles are the go-to vehicles here. It's:
 
 1. Cheap
-2. Traffic is a lesser pain (you zoom past it)
+2. Traffic is a bit more painless (you zoom past it)
 3. You get to smell your surroundings (exhaust smoke yum)
 
 And so I tried learning to ride one. I was commuting to uni before this, and so decided to love my body (and sanity) more by saying _sayonara_ to all the packed and _shtingky_ jeepneys.
