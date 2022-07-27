@@ -1,91 +1,70 @@
-# Site settings
-title: Carl's Archives # site title
-description: >- # site description
-  A guy tries to figure his chaotic life out; get a front-row seat to his deep and convoluted thoughts, right on this website!
-lang: en-US # default lang
-timezone: Asia/Manila # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/philippines69/carlcastroarchives # site repo [optional]
-mode: dark # default theme "dark" | "light"
-
-# Profile settings
+---
+title: Carl's Archives
+description: A random dude tries to figure his chaotic life out and writes his thoughts
+  on a self-made half-baked website
+lang: en-US
+timezone: Asia/Manila
+image: assets/img/ogp.png
+repo: https://github.com/philippines69/carlcastroarchives
+mode: dark
 author:
-  name: Carl Castro # author name
-  bio: >- # tell to the world
-      Welcome to my internet safe place. See as I document my <a href="https://youtu.be/cPCLFtxpadE" target="_blank">bizarre adventures</a>. I post whatever comes to mind; have a look around!
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: castro.carl1998 # facebook username
-  email: carlrobincastro@gmail.com # email adress
+  name: Carl Castro
+  bio: A random guy tries to figure his life out and writes his thoughts on a self-made,
+    half-baked website. He posts whatever comes to mind; have a look around!
+  username: username
+  github: github_username
+  twitter: twitter_username
+  facebook: castro.carl1998
+  email: carlrobincastro@gmail.com
   anilist: Rumpelforeskin
-  avatar: /assets/img/avatar.jpg # change with your own avatar
-
-# URL settings
-url: "carlcastroarchives.ml" #
-baseurl: ""
-permalink: /:title/
-google_analytics: # leave it blank if not wish
-fb_appid:
-
-# Collection setting
+  avatar: "/assets/img/avatar.jpg"
+url: carlcastroarchives.ml
+baseurl: ''
+permalink: "/:title/"
+google_analytics: 
+fb_appid: 
 collections:
   posts:
     output: true
-
-# Markdown settings
 markdown: kramdown
 highlighter: rouge
 kramdown:
   syntax_highlighter: rouge
-
-# Default front matter
 defaults:
-  - scope:
-      path: ""
-    values:
-      layout: post
-      comments: false
-
-# Jekyll Compose default front matter
+- scope:
+    path: ''
+  values:
+    layout: post
+    comments: false
 jekyll_compose:
   post_default_front_matter:
-    modified:
+    modified: 
     tags: []
-    description:
+    description: 
   draft_default_front_matter:
-    modified:
+    modified: 
     tags: []
-    description:
-
-# Homepage limit posts
-number_of_posts: 5
-
-# Build settings
-# theme: klise
+    description: 
+number_of_posts: "5"
 sass:
   style: compressed
-
 include:
-  - _redirects
-  - .htaccess
-
+- _redirects
+- ".htaccess"
 exclude:
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - CHANGELOG.md
-  - README.md
-  - node_modules
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - lighthouse.png
-  - klise-*.gem
-  - klise.gemspec
-
-# Plugins
+- CNAME
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- CHANGELOG.md
+- README.md
+- node_modules
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- lighthouse.png
+- klise-*.gem
+- klise.gemspec
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-postfiles
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-postfiles
