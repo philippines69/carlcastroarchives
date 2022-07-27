@@ -3,7 +3,7 @@ tags:
 - Personal
 layout: post
 title: I tried to learn motorcycling (not fun)
-date: 2022-07-24 16:00:00 +0000
+date: 2022-07-24T16:00:00.000+00:00
 categories: Personal
 
 ---
@@ -11,10 +11,10 @@ categories: Personal
 
 # I live in
 
-I live in a third-world country. Motorcycles are the go-to vehicles here. It's:
+I live in a third-world country. Motorcycles are the go-to vehicles here. They're:
 
 1. Cheap
-2. Tad less traffic pain 
+2. Tad less traffic pain
 3. You get to smell your surroundings (exhaust smoke yum)
 
 And so I tried learning one. I was commuting to uni before this, so I decided I would finally let my sanity back by saying _sayonara_ to all the packed and **_shtingky_** jeepneys.
