@@ -9,5 +9,6 @@ permalink: "/started-learning-some-excel/"
 
 ---
 # Getting good
+<figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/1001855739003936778/c58c707c4e9ca883dc84c422ff936039.jpg" alt="Excel meme" style="width:500px;"> <figcaption>Here's a funny meme that I DEFINITELY wasn't planning on replicating</figcaption> </figure>
 
 [https://www.youtube.com/playlist?list=PLrRPvpgDmw0n34OMHeS94epMaX_Y8Tu1k](https://www.youtube.com/playlist?list=PLrRPvpgDmw0n34OMHeS94epMaX_Y8Tu1k "https://www.youtube.com/playlist?list=PLrRPvpgDmw0n34OMHeS94epMaX_Y8Tu1k")
