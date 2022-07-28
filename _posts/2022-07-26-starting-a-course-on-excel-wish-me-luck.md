@@ -12,6 +12,8 @@ permalink: "/started-learning-some-excel/"
 
 # Getting good
 
-Microsoft Excel is 
+Microsoft Excel is
 
 [https://www.youtube.com/playlist?list=PLrRPvpgDmw0n34OMHeS94epMaX_Y8Tu1k](https://www.youtube.com/playlist?list=PLrRPvpgDmw0n34OMHeS94epMaX_Y8Tu1k "https://www.youtube.com/playlist?list=PLrRPvpgDmw0n34OMHeS94epMaX_Y8Tu1k")
+
+[https://excel-practice-online.com/functions/excel_basics/](https://excel-practice-online.com/functions/excel_basics/ "https://excel-practice-online.com/functions/excel_basics/")
