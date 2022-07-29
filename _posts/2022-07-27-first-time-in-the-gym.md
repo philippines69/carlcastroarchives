@@ -15,6 +15,6 @@ A fit dude immediately approached me after filling out the form. I guess he's my
 
 He showed me the ropes and taught me how to use the equipment. There was variety in the equipment, surprisingly enough. The membership fee was so cheap I thought it'd be a rundown gym with incomplete equipment.
 
-Anyways, one key takeaway I can get from this is that I'm so goddamn WEAK. But, even pros come from humble beginnings, right? So I guess I should just power through this. 
+Anyways, one key takeaway I can get from this is that I'm so goddamn WEAK. But, even pros come from humble beginnings, right? So I guess I should just power through this.
 
-Let's see where this'll take me and hopefully my P300 membership fee won't go to waste.
+Let's see where this'll take me and hopefully my P300 membership fee won't go to waste💪
