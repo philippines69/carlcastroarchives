@@ -8,7 +8,7 @@ categories: Personal
 permalink: "/started-learning-some-excel/"
 
 ---
-<figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/1001855739003936778/c58c707c4e9ca883dc84c422ff936039.jpg" alt="Excel meme" style="width:500px;"> <figcaption>Who? Me? Pfffft I wasn't planning on doing this! </figcaption> </figure>
+<figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/1001855739003936778/c58c707c4e9ca883dc84c422ff936039.jpg" alt="Excel meme" style="width:500px;"> <figcaption>Who? Me? Pfffft I wasn't planning on doing this😳 </figcaption> </figure>
 
 # Getting good
 
