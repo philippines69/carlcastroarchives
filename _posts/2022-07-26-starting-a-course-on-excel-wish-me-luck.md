@@ -8,12 +8,16 @@ categories: Personal
 permalink: "/started-learning-some-excel/"
 
 ---
-<figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/1001855739003936778/c58c707c4e9ca883dc84c422ff936039.jpg" alt="Excel meme" style="width:500px;"> <figcaption>Who? Me? _Pfffft_ I was NEVER planning on doing this! </figcaption> </figure>
+<figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/1001855739003936778/c58c707c4e9ca883dc84c422ff936039.jpg" alt="Excel meme" style="width:500px;"> <figcaption>Who? Me? Pfffft I wasn't planning on doing this! </figcaption> </figure>
 
 # Getting good
 
-Microsoft Excel is
+Starting today, I'll be learning some skills that would probably make my resume more attractive. First thing on the list is learning Excel. I'm already familiar with it, I just need to do a proper run-through to prime my skills.
+
+I'll mainly be learning from these sources:
 
 [https://www.youtube.com/playlist?list=PLrRPvpgDmw0n34OMHeS94epMaX_Y8Tu1k](https://www.youtube.com/playlist?list=PLrRPvpgDmw0n34OMHeS94epMaX_Y8Tu1k "https://www.youtube.com/playlist?list=PLrRPvpgDmw0n34OMHeS94epMaX_Y8Tu1k")
 
 [https://excel-practice-online.com/functions/excel_basics/](https://excel-practice-online.com/functions/excel_basics/ "https://excel-practice-online.com/functions/excel_basics/")
+
+Wish me luck!💪
