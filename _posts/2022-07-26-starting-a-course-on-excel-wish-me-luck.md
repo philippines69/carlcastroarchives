@@ -17,7 +17,7 @@ Starting today, I'll be learning some skills that would probably make my resume 
 
 I'll mainly be learning from these sources:
 
-* [Excel Practice Online]("https://excel-practice-online.com/functions/excel_basics/")
-* [ExcelIsFun Basics Course]("https://www.youtube.com/playlist?list=PLrRPvpgDmw0n34OMHeS94epMaX_Y8Tu1k")
+* [Excel Practice Online](https://excel-practice-online.com/functions/excel_basics/)
+* [ExcelIsFun Basics Course](https://www.youtube.com/playlist?list=PLrRPvpgDmw0n34OMHeS94epMaX_Y8Tu1k)
 
 Wish me luck!💪
