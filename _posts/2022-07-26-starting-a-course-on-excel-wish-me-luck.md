@@ -1,10 +1,9 @@
 ---
 tags:
-- Personal
 - Excel
 layout: post
 title: Started learning some Excel
-date: 2022-07-26 16:00:00 +0000
+date: 2022-07-26T16:00:00.000+00:00
 categories: Personal
 permalink: "/started-learning-some-excel/"
 
