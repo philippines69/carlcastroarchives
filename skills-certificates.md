@@ -6,6 +6,7 @@ excerpt: 'The name''s Carl. I''m an engineering freshman (if that adds to anythi
   living in Zamboanga Peninsula, Philippines. I created this blog/site as an avenue
   to better display my skills/experiences/quirks in a more ''personalized'' way. '
 comments: false
+published: false
 
 ---
 # Skills
