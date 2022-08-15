@@ -7,12 +7,14 @@ date: 2022-08-14 16:00:00 +0000
 categories: Personal
 
 ---
-<figure><img src="https://thumbs.dreamstime.com/z/students-9709361.jpg" alt="Morbius sweep" style="width:500px;"> <figcaption></figcaption> </figure>
+<figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/1008758735939846254/students-9709361.jpg" alt="Uni students hooray" style="width:500px;"> <figcaption></figcaption> </figure>
 
 Just started university. Hooray!🥳
 
-These last few weeks have been weird. I started gymming, started uni, and now I'm typing this out with notes and highlighters on my desk. Is my life finally changing for the better?
+These last few weeks have been wild. I started gymming, started uni, and now I’m typing this out with notes and highlighters on my desk. Is my life finally changing for the better?
 
-Anyway,the schedule's pretty tight and I'm still adjusting to my new environment. I made a lot of new friends; some came from different schools and some even came from nearby provinces. It's been quite exciting! 
+The schedule’s tight, and I’m still adjusting to my new environment. I made quite a few new friends; some came from different schools, and others even from nearby provinces. It’s been quite exciting.
 
-Will I survive and get an engineering degree? Let's see in a few years, I guess!
+Will I survive and get an engineering degree? Let’s see in a few years, I guess!
+
+<figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/1008759144565723196/wr4w81z7nng61.png" alt="What the fuck" style="width:500px;"> <figcaption></figcaption> </figure>
