@@ -15,6 +15,6 @@ These last few weeks have been wild. I started gymming, started uni, and now I�
 
 The schedule’s tight, and I’m still adjusting to my new environment. I made quite a few new friends; some came from different schools, and others even from nearby provinces. It’s been quite exciting.
 
-Will I survive and get that precious, precious degree? I guess let's see in a few years.
+Will I survive and get that precious, precious degree? I guess we'll see in a few years (or months, who knows).
 
 <figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/1008759144565723196/wr4w81z7nng61.png" alt="What the fuck" style="width:500px;"> <figcaption></figcaption> </figure>
