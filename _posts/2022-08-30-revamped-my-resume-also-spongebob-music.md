@@ -7,7 +7,7 @@ date: 2022-08-30 16:00:00 +0000
 categories: Personal
 
 ---
-<figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/1008758735939846254/students-9709361.jpg" alt="confused unga bunga" style="width:500px;"> <figcaption></figcaption> </figure>
+<figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/1014279032566722570/unga.jpg" alt="confused unga bunga" style="width:500px;"> <figcaption></figcaption> </figure>
 
 # Resume done, can I sleep now
 
