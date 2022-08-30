@@ -19,4 +19,4 @@ I've been relying on my cover letter rather than on my resume since I started; N
 
 # In other breaking news, Spongebob music promotes relaxation in some parts of the brain; try it for yourself!
 
-<iframe width="862" height="660" src="https://www.youtube.com/embed/dJJQTxiW0P8" title="Relaxing SpongeBob Jams for Sleeping/Studying" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="382" src="https://www.youtube.com/embed/dJJQTxiW0P8" title="Relaxing SpongeBob Jams for Sleeping/Studying" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
