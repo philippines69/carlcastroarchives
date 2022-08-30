@@ -11,10 +11,12 @@ categories: Personal
 
 # Resume done, can I sleep now
 
-Now, I've been putting off working on this thing and finally, it's about done. 
+Now, I've been putting off working on this thing and finally, it's about done.
 
-This isn't the first time I made a resume, but the first one was made when I was 16 so you'd expect some weird, out-of-place stuff that teenage me thought of putting on. 
+This isn't the first time I made a resume, but the first one was made when I was 16 so you'd expect some weird, out-of-place stuff that teenage me thought of putting on.
 
 I've been relying on my cover letter rather than on my resume since I started; Now that I have one, will this help me score more gigs? (God I hope so)
 
-# In other breaking news, Spongebob music's awesome
+# In other breaking news, Spongebob music promotes relaxation in some parts of the brain; try it for yourself!
+
+<iframe width="862" height="660" src="https://www.youtube.com/embed/dJJQTxiW0P8" title="Relaxing SpongeBob Jams for Sleeping/Studying" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
