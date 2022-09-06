@@ -21,6 +21,7 @@ Anyways, I’ve been busy-bored these past few weeks that I couldn’t apply to 
 
 Yesterday I discovered these “medieval music” compilations on my recommendations and thought the thumbnails looked cool, so I clicked on them. I’m not really into ‘ASMR’ and all of its subgenres but this one’s quite good (dunno if this counts as ASMR though; some videos include “ASMR Ambience” in the title so yeah).
 
-<iframe width="600" height="382" src="[https://www.youtube.com/embed/Bt5k9KLRYeU](https://www.youtube.com/embed/Bt5k9KLRYeU "https://www.youtube.com/embed/Bt5k9KLRYeU")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="382" src="https://www.youtube.com/embed/Bt5k9KLRYeU" title="
+The Knight's Welcome - Medieval Music & Ambience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="600" height="382" src="[https://www.youtube.com/embed/uIscpDKWqQ0](https://www.youtube.com/embed/uIscpDKWqQ0 "https://www.youtube.com/embed/uIscpDKWqQ0")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="382" src="https://www.youtube.com/embed/uIscpDKWqQ0" title="DARK PILGRIMAGE | Testamentum Eternum, Wind, Crows, Cathedral Bells Sound | ASMR Ambience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
