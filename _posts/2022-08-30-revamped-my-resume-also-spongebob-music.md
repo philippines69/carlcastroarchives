@@ -17,6 +17,6 @@ This ain't the first time I made myself a resume. Although I made the first one 
 
 I've been relying on my cover letter ever since I started. Now that I have a resume, would it somewhat help me in my job search?
 
-# In other news, Hawaiian Spongebob music apparently promotes relaxation in some parts of the brain
+# In other news, Spongebob music apparently promotes relaxation in some parts of the brain
 
 <iframe width="600" height="382" src="https://www.youtube.com/embed/dJJQTxiW0P8" title="Relaxing SpongeBob Jams for Sleeping/Studying" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
