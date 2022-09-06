@@ -2,7 +2,7 @@
 tags:
 - Personal
 layout: post
-title: Just birthed my resume; also, Spongebob music
+title: "(Somewhat) fixed my resume; also, Spongebob music"
 date: 2022-08-30 16:00:00 +0000
 categories: Personal
 
@@ -11,12 +11,14 @@ categories: Personal
 
 # Resume done, can I sleep now
 
-Now, I've been putting off working on this thing and finally, it's about done.
+I've been putting off working on this thing and now it's finally done.
 
-This isn't the first time I made a resume, but the first one was made when I was 16 so you'd expect some weird, out-of-place stuff that teenage me thought of putting on.
+This ain't the first time I made myself a resume. Although I made the first one when I was 16 so you can expect some weird, out-of-place stuff teenage me thought of putting on.
 
-I've been relying on my cover letter rather than on my resume since I started; Now that I have one, will this help me score more gigs? (God I hope so)
+I've been relying on my cover letter ever since I started. Now that I have a resume, would it somewhat help me in my job search?
 
-# In other breaking news, Spongebob music promotes relaxation in some parts of the brain
+# In other news, Hawaiian Spongebob music apparently promotes relaxation in some parts of the brain
+
+Source? Just trust me bro
 
 <iframe width="600" height="382" src="https://www.youtube.com/embed/dJJQTxiW0P8" title="Relaxing SpongeBob Jams for Sleeping/Studying" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
