@@ -2,7 +2,7 @@
 tags:
 - Personal
 layout: post
-title: "(Somewhat) fixed my resume"
+title: Why is it called a resume anyway
 date: 2022-08-30T16:00:00.000+00:00
 categories: Personal
 
@@ -17,7 +17,7 @@ This ain't the first time I made myself a resume. Although I made the first one 
 
 I've been relying on my cover letter ever since I started. Now that I have a resume, would it somewhat help me in my job search?
 
-# In other news, Spongebob music's quite good
+# Spongebob music's quite good
 
 <u> <a href="https://cdn.discordapp.com/attachments/993410728088305734/1016835522833940550/metal-gear-rising-metal-gear-rising-revengeance.gif">Source</a> </u>
 
