@@ -19,7 +19,7 @@ Anyways, I’ve been busy-bored these past few weeks that I couldn’t work on o
 
 # Epic medieval ambience
 
-Yesterday I discovered these “medieval music” compilations on my recommendations and thought the thumbnails looked cool, so I clicked on them. I’m not really into ASMR but this one’s quite good (dunno if this counts as ASMR though; some videos include “ASMR Ambience” in the title so yeah).
+Yesterday I discovered these “medieval music” compilations on my recommendation and thought the thumbnails looked cool, so I clicked on them. I’m not really into ASMR but this one’s quite good (dunno if this counts as ASMR though; some videos include “ASMR Ambience” in the title so yeah).
 
 <iframe width="600" height="382" src="https://www.youtube.com/embed/Bt5k9KLRYeU" title="
 The Knight's Welcome - Medieval Music & Ambience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
