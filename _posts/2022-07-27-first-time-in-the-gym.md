@@ -3,7 +3,7 @@ tags:
 - Personal
 layout: post
 title: First time in the gym
-date: 2022-07-27 16:00:00 +0000
+date: 2022-07-27T16:00:00.000+00:00
 categories: Personal
 
 ---
@@ -11,10 +11,10 @@ categories: Personal
 
 My first ever gym experience was _different_.
 
-A fit dude immediately approached me after filling out the form. I guess he's my instructor now?? You'd usually pay them to help you out, but he says it's free so I guess that's that. Lucky me?
+A fit dude approached me immediately after filling out the form. I guess he's my instructor now?? You'd usually pay them to help you out, but he says it's free so I guess that's that.
 
-He showed me the ropes and taught me how to use the equipment. There was variety in the equipment, surprisingly enough. The membership fee was so cheap I thought it'd be a rundown gym with incomplete equipment.
+He showed me the ropes and taught me how to use the equipment. There were lots of equipment to get around, surprisingly enough. The membership fee was so cheap I thought it'd be a rundown gym with incomplete equipment.
 
-Anyways, one key takeaway I can get from this is that I'm so goddamn WEAK. But, even pros come from humble beginnings, right? So I guess I should just power through this.
+Anyways, one key takeaway I can get from this is that I'm so WEAK. But, even pros come from humble beginnings, right? So I guess I should just power through this.
 
-Let's see where this'll take me and hopefully my P300 membership fee won't go to waste💪
+Let's see where this'll take me and hopefully my P300 membership fee won't go to waste
