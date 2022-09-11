@@ -1,7 +1,6 @@
 ---
 title: Carl's Archives
-description: A random dude tries to figure his chaotic life out and writes his thoughts
-  on a self-made half-baked website
+description: Welcome, I write down thoughts on this self-made, half-baked website
 lang: en-US
 timezone: Asia/Manila
 image: assets/img/ogp.png
@@ -9,8 +8,7 @@ repo: https://github.com/philippines69/carlcastroarchives
 mode: dark
 author:
   name: Carl Castro
-  bio: A random dude tries to figure his life out and writes his thoughts on a self-made,
-    half-baked website. Welcome to his humble abode; have a look around!
+  bio: Welcome, I write down thoughts on this self-made, half-baked website
   username: username
   github: github_username
   twitter: twitter_username
