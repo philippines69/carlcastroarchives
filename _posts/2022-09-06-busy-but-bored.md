@@ -3,7 +3,7 @@ tags:
 - Personal
 layout: post
 title: Busy (but bored?)
-date: 2022-09-06 16:00:00 +0000
+date: 2022-09-06T16:00:00.000+00:00
 categories: Personal
 
 ---
@@ -11,7 +11,7 @@ categories: Personal
 
 # Busy-bored??
 
-Quite a weird feeling, really. One day you’re bored, but then the next day, you’d be doing stuff for hours on end you’d wonder why there’re only 24 hours in a day. Is this what I’ll be experiencing for the next 4 years?
+Quite a weird feeling, really. One day you’re bored, but then the next day, you’d be doing stuff for hours on end. Is this what I’ll be experiencing for the next 4 years?
 
 They say boredom is necessary to let our minds reflect and wander. That might be true in some cases, but to me, boredom feels soo ‘unproductive.’ So it only induces anxiety more than anything else.
 
