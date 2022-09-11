@@ -1,5 +1,5 @@
 ---
-title: Hi, I'm Carl Castro!
+title: Hi there!
 permalink: "/about/"
 layout: page
 excerpt: 
