@@ -2,14 +2,14 @@
 tags:
 - Personal
 layout: post
-title: Busy but bored
+title: Busy (but bored?)
 date: 2022-09-06 16:00:00 +0000
 categories: Personal
 
 ---
 <figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/1016802781547479100/unknown.png" alt="Kilogram of feathers" style="width:600px;"> <figcaption></figcaption> </figure>
 
-# Busy-bored?
+# Busy-bored??
 
 Quite a weird feeling, really. One day you’re bored, but then the next day, you’d be doing stuff for hours on end you’d wonder why there’re only 24 hours in a day. Is this what I’ll be experiencing for the next 4 years?
 
