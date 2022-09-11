@@ -12,7 +12,7 @@ permalink: "/started-learning-some-excel/"
 
 # Getting good
 
-Starting today, I'll be learning some skills that would probably make my resume more attractive. First thing on the list is learning Excel. I'm already familiar with it, I just need to do a proper run-through to prime my skills.
+Starting today, I'll be learning some skills that'd probably be helpful in the long run. First thing on the list is learning Excel. I'm familiar with it, I just need to do a proper run-through to prime my skills.
 
 I'll mainly be learning from these sources:
 
