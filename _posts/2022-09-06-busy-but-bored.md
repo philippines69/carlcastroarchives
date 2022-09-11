@@ -17,7 +17,7 @@ They say boredom is necessary to let our minds reflect and wander. That might be
 
 Anyways, I’ve been busy-bored these past few weeks that I couldn’t work on other stuff. Good thing I was recently able to catch a break, and now I have ample time to work on my side projects (only for a day of course).
 
-# Dang, medieval ambience?
+# Epic medieval ambience
 
 Yesterday I discovered these “medieval music” compilations on my recommendations and thought the thumbnails looked cool, so I clicked on them. I’m not really into ASMR but this one’s quite good (dunno if this counts as ASMR though; some videos include “ASMR Ambience” in the title so yeah).
 
