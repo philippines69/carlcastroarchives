@@ -2,7 +2,7 @@
 tags:
 - Personal
 layout: post
-title: Why is it called a resume anyway
+title: Why is it called a 'resume' anyway
 date: 2022-08-30T16:00:00.000+00:00
 categories: Personal
 
