@@ -8,7 +8,7 @@ comments: false
 ---
 # Who I am...
 
-Hi, you can call me Carl! I occasionally post on this site..
+Hi, you can call me Carl. I post on this site occasionally....
 
 # ...Freelancer
 
@@ -20,11 +20,11 @@ I like electronics. That's why I'm pursuing an EE degree. I guess it runs in the
 
 # ...Scriptwriter
 
-I write scripts for a couple of clients. It started back in October 2021. The job's been a great learning experience for me. It's pretty cool connecting with different types of people.
+I write scripts for a couple of clients. It started back in October 2021. The job's been a great learning experience for me, it's pretty cool connecting with different types of people.
 
 # ...Trusty digital wingman
 
-A pretentious way of saying 'Virtual assistant.' My first gig was a Virtual assistance job. Got a better grasp on the basic apps and practices. I also had my fair share of experiences with customers.
+A pretentious way of saying 'Virtual assistant.' My first gig was a Virtual assistance job. Got a better grasp on the basic tools and practices. I also had my fair share of experiences with customers.
 
 # ...Web dev newbie
 
@@ -53,6 +53,6 @@ I just HAD to mention it. It's part of who I am! I started back in 2020. Find my
 
 <p><img src="/assets/img/about/gmail.png" alt="GitHub" style="width:24px;"/><a href="mailto:carlrobincastro@gmail.com" target="_blank"> carlrobincastro@gmail.com</a></p>
 
-### Anime:
+### Anime (for all ya'll weebs):
 
 <p><img src="/assets/img/about/anilist.png" alt="AniList" style="width:24px;"/><a href="https://anilist.co/user/Rumpelforeskin/" target="_blank"> AniList</a></p>
