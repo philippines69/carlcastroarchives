@@ -51,4 +51,4 @@ comments: false
 
 I worked as a scripwriter for a TV Show recaps channel. Currently recapping Game of Thrones (I was lucky with this one XD).![](https://cdn.discordapp.com/attachments/993410728088305734/1018674843450884138/Screenshot_3.jpg)
 
-# Virtual assistance experience
+# Virtual assistance experienceee
