@@ -15,19 +15,19 @@ comments: false
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 3</div>
-    <img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg" style="width:100%">
+    <img src="/assets/img/avatar.jpg" style="width:100%">
     <div class="text">Caption Text</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
-    <img src="https://thumbs.dreamstime.com/b/beautiful-rain-forest-ang-ka-nature-trail-doi-inthanon-national-park-thailand-36703721.jpg" style="width:100%">
+    <img src="/assets/img/background-image.png" style="width:100%">
     <div class="text">Caption Two</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
-    <img src="https://images.pexels.com/photos/1172253/pexels-photo-1172253.jpeg" style="width:100%">
+    <img src="/assets/img/ogp.png" style="width:100%">
     <div class="text">Caption Three</div>
   </div>
 
