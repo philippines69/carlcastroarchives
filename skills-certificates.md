@@ -13,7 +13,6 @@ TV show recaps & summaries
 
 I worked as a scriptwriter for a TV show recaps channel. I'm currently working on a project involving recaps/summaries of a famous TV show you've probably already heard of (Game of Thrones).
 
-
 ![](https://cdn.discordapp.com/attachments/993410728088305734/1018674843450884138/Screenshot_3.jpg)
 
 ![](https://cdn.discordapp.com/attachments/993410728088305734/1018674816234029056/Screenshot_1.jpg)
@@ -46,9 +45,9 @@ My very first 'online' job. Did a variety of jobs which I'll be listing below:
 
 * Spreadsheet management through Google Sheets
 * Received orders through social media platforms
-* Customer engagement 
+* Customer engagement
 * Served as a principal point of contact for order statuses and updates
 
-![](https://cdn.discordapp.com/attachments/993410728088305734/1020588390904774697/image.png)
+![](https://cdn.discordapp.com/attachments/993410728088305734/1020601057547657227/image-censored_1.png)
 
-![](https://cdn.discordapp.com/attachments/993410728088305734/1020591802320949268/image.png)
+![](https://cdn.discordapp.com/attachments/993410728088305734/1020601130398535761/image-censored.png)
