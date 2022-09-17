@@ -33,9 +33,7 @@ I've also dabbled in some Ancient Egyptian history to show off my love for ancie
 Facts & biographies
 </h1></div>
 
-This was one of my first gigs as a channel writer, but this was also my longest-running one (so far).
-
-I learned a lot from this gig and I'm forever grateful to the person who accepted me for the opportunity.
+This was one of my first gigs as a channel writer, but this was also my longest-running one (so far). I learned a lot from this gig and I'm forever grateful for the opportunity.
 
 * [Samples here](https://drive.google.com/drive/folders/1AkDNQ1FOgvbCX4ovp0HI8DBY3iCMBfm3?usp=sharing)
 
