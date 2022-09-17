@@ -13,7 +13,7 @@ TV show recaps & summaries
 
 I worked as a scriptwriter for a TV show recaps channel. I'm currently working on a project involving recaps/summaries of a famous TV show you've probably already heard of (Game of Thrones).
 
-[Samples here](https://drive.google.com/drive/folders/1xLcsIHnidWpdG11yliAGP0mTguDWGXtr?usp=sharing)
+* [Samples here](https://drive.google.com/drive/folders/1xLcsIHnidWpdG11yliAGP0mTguDWGXtr?usp=sharing)
 
 ![](https://cdn.discordapp.com/attachments/993410728088305734/1018674843450884138/Screenshot_3.jpg)
 
@@ -23,9 +23,9 @@ I worked as a scriptwriter for a TV show recaps channel. I'm currently working o
 Ancient history
 </h1></div>
 
-I've also dabbled in some Ancient Egyptian history to show off my love for ancient times. 
+I've also dabbled in some Ancient Egyptian history to show off my love for ancient times.
 
-[Samples here](https://drive.google.com/drive/folders/1OYmRJpw7snDL43s6v8dI_Y9fiOwS-ADp?usp=sharing)
+* [Samples here](https://drive.google.com/drive/folders/1OYmRJpw7snDL43s6v8dI_Y9fiOwS-ADp?usp=sharing)
 
 ![](https://cdn.discordapp.com/attachments/993410728088305734/1020581838743404554/unknown.png)
 
@@ -35,9 +35,9 @@ Facts & biographies
 
 This was one of my first gigs as a channel writer, but this was also my longest-running one (so far).
 
-I learned a lot from this gig and I'm forever grateful to the person who accepted me for the opportunity. 
+I learned a lot from this gig and I'm forever grateful to the person who accepted me for the opportunity.
 
-[Samples here](https://drive.google.com/drive/folders/1AkDNQ1FOgvbCX4ovp0HI8DBY3iCMBfm3?usp=sharing)
+* [Samples here](https://drive.google.com/drive/folders/1AkDNQ1FOgvbCX4ovp0HI8DBY3iCMBfm3?usp=sharing)
 
 ![](https://cdn.discordapp.com/attachments/993410728088305734/1020582876745564170/unknown.png)
 
