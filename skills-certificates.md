@@ -1,6 +1,6 @@
 ---
 title: Projects & Experiences
-permalink: "/projects-certificates/"
+permalink: "/projects-experiences/"
 layout: page
 excerpt: 'The name''s Carl. I''m an engineering freshman (if that adds to anything)
   living in Zamboanga Peninsula, Philippines. I created this blog/site as an avenue
@@ -8,7 +8,6 @@ excerpt: 'The name''s Carl. I''m an engineering freshman (if that adds to anythi
 comments: false
 
 ---
-
 <!-- Slideshow container -->
 <div class="slideshow-container">
 
