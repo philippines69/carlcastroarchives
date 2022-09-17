@@ -29,7 +29,7 @@ I've also dabbled in some Ancient Egyptian history to show off my love for ancie
 Facts & biographies
 </h1></div>
 
-This is one of my first gigs as a channel writer, but this was also my longest-running one (so far).
+This was one of my first gigs as a channel writer, but this was also my longest-running one (so far).
 
 I learned a lot from this gig and I'm forever grateful to the person who accepted me for the opportunity.
 
@@ -44,7 +44,7 @@ Virtual assistance
 My very first 'online' job. Did a variety of jobs which I'll be listing below:
 
 * Spreadsheet management through Google Sheets
-* Received orders through social media platforms
+* Order acquisition through social media platforms
 * Customer engagement
 * Served as a principal point of contact for order statuses and updates
 
