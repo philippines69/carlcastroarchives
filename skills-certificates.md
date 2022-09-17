@@ -8,10 +8,39 @@ excerpt: 'The name''s Carl. I''m an engineering freshman (if that adds to anythi
 comments: false
 
 ---
-# Writing experience
+# Youtube writing experience
 
-## TV show recaps & summaries
+### TV show recaps & summaries
 
-I worked as a scripwriter for a TV Show recaps channel. Currently recapping Game of Thrones (I was lucky with this one XD).![](https://cdn.discordapp.com/attachments/993410728088305734/1018674843450884138/Screenshot_3.jpg)
+I worked as a scriptwriter for a TV show recaps channel. I'm currently working on a project involving recaps/summaries of a famous TV show you've probably already heard of (Game of Thrones).
 
-# Virtual assistance experience edith11
+![](https://cdn.discordapp.com/attachments/993410728088305734/1018674843450884138/Screenshot_3.jpg)
+
+![](https://cdn.discordapp.com/attachments/993410728088305734/1018674816234029056/Screenshot_1.jpg)
+
+### Ancient history
+
+I've also dabbled in some Ancient Egyptian history to show off my love for ancient times.
+
+![](https://cdn.discordapp.com/attachments/993410728088305734/1020581838743404554/unknown.png)
+
+### Facts & biographies
+
+This is one of my first gigs as a channel writer, but this was also my longest-running one.
+
+I learned a lot from this gig and I'm forever grateful to the person who accepted me for the opportunity.
+
+![](https://cdn.discordapp.com/attachments/993410728088305734/1020582876745564170/unknown.png)
+
+![](https://cdn.discordapp.com/attachments/993410728088305734/1020589610184740874/unknown.png)
+
+# Virtual assistance experience
+
+My very first 'online' job. Did a variety of jobs which I'll be listing below:
+
+* Received orders through social media platforms
+* Spreadsheet management through Google Sheets
+* Customer engagement 
+* Served as a principal point of contact for order statuses and updates
+
+![](https://cdn.discordapp.com/attachments/993410728088305734/1020588390904774697/image.png)
