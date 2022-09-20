@@ -2,9 +2,10 @@
 tags:
 - Personal
 layout: post
-title: There are days when I just feel like a failure
+title: "Sadboi hours\U0001F62D"
 date: 2022-09-18 16:00:00 +0000
 categories: Personal
+permalink: sadboi-hours
 
 ---
 I dunno anymore. I usually think rationally (and positively). But there are just days when I feel I'm not doing enough/I'm not enough.
