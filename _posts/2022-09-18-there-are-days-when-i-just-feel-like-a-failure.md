@@ -2,13 +2,15 @@
 tags:
 - Personal
 layout: post
-title: "Sadboi hours\U0001F62D"
+title: My superhuman ability to feel like an utter complete failure
 date: 2022-09-18 16:00:00 +0000
 categories: Personal
 permalink: sadboi-hours
 
 ---
-I dunno anymore. I usually think rationally (and positively). But there are just days when I feel I'm not doing enough/I'm not enough.
+This ability of mine can make me switch from the happiest person on earth to the most depressed and self-pitying prick in a matter of milliseconds
+
+Seriously though, I dunno anymore. I usually think rationally (and positively). But there are just days when I feel I'm not doing enough/I'm not enough.
 
 I end up feeling like a mess.
 
