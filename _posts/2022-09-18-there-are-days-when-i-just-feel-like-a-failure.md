@@ -3,7 +3,7 @@ tags:
 - Personal
 layout: post
 title: My superhuman ability to feel like an utter complete failure
-date: 2022-09-18 16:00:00 +0000
+date: 2022-09-19 16:00:00 +0000
 categories: Personal
 permalink: sadboi-hours
 
