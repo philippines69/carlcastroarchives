@@ -2,7 +2,7 @@
 tags:
 - Personal
 layout: post
-title: My cool ability to feel like an utter complete failure
+title: My ability to feel like an utter complete failure
 date: 2022-09-27 16:00:00 +0000
 categories: Personal
 permalink: sadboi-hours
