@@ -3,7 +3,7 @@ tags:
 - Personal
 layout: post
 title: The absolute state of my wallet
-date: 2022-09-16 16:00:00 +0000
+date: 2022-09-19 16:00:00 +0000
 categories: Personal
 
 ---
