@@ -4,7 +4,7 @@ tags:
 layout: post
 title: Bro I literally forgot this site exists
 date: 2022-11-17 16:00:00 +0000
-categories: 'Personal '
+categories: ''
 
 ---
 Guess who's back?
