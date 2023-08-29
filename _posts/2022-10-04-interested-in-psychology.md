@@ -7,8 +7,8 @@ date: 2022-10-04 16:00:00 +0000
 categories: Personal
 
 ---
-So I just realized that I've been observing how people behave and react in different situations and at different times. It's pretty damn interesting seeing how the inner mechanisms of the brain work based on their demeanor towards people/scenarios/themselves.
+It hit me recently that I've been quietly watching and dissecting how folks navigate various situations and moments in time. It's honestly mind-boggling to witness the gears turning inside people's heads, to see how they respond to others, different scenarios, and their own selves.
 
-Now, I realized that taking a degree in Psychology might be something that would satiate my curiosity about the human mind. The problem is, I'm already on an Engineering course, which is arguably more profitable than taking psychology. So maybe I'll let this stay on the sidelines for a bit and see where my engineering course will take me.
+And then it hit me again—maybe delving into the world of Psychology could be a way to satisfy this endless curiosity about the human mind. But, there's a bit of a snag. I'm already deep into an Engineering course, and let's be real, Engineering's usually got a bit more cash in the wallet than Psychology. So, I'm thinking I might let this simmer on the back burner for a while and see where this engineering path takes me. Who knows, maybe there's a way to blend both worlds down the line?
 
 <figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/1027046538398142464/xmen.jpg" alt="confused unga bunga" style="width:500px;"> <figcaption></figcaption> </figure>
