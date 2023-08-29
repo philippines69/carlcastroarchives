@@ -2,7 +2,7 @@
 tags:
 - Personal
 layout: post
-title: Bro I literally forgot this site exists
+title: Bro I literally forgot this site existed
 date: 2022-11-17 16:00:00 +0000
 categories: ''
 
