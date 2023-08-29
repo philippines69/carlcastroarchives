@@ -9,10 +9,6 @@
 - title: About
   url: /about/
   external: false # set true if you using external link, see below
-  
-- title: Projects & Experiences
-  url: /projects-experiences/
-  external: false
 
 
 # Example:
