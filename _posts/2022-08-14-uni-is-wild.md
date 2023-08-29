@@ -5,6 +5,7 @@ layout: post
 title: Uni is WILD
 date: 2022-08-14T16:00:00.000+00:00
 categories: Personal
+published: false
 
 ---
 <figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/1008758735939846254/students-9709361.jpg" alt="Uni students hooray" style="width:500px;"> <figcaption></figcaption> </figure>
