@@ -6,35 +6,35 @@ excerpt:
 comments: false
 
 ---
-# Who I am...
+# About Me: A Brief Overview...
 
-Hi, you can call me Carl. I post on this site occasionally....
+Hi, you can call me Carl. I post on this site occasionally...
 
-# ...Freelancer
+# ...Exploring the Freelancing World
 
-I'm still figuring out what I'd like to do in the world of freelancing, so I've been trying a lot of stuff.
+As I navigate the world of freelance work, I'm currently in the process of discovering my interests and trying out various gigs to find my path.
 
-# ...Electronics...Geek?
+# ...Passion for Electronics and Tech
 
-I like electronics. That's why I'm pursuing an EE degree. I guess it runs in the family.
+I really enjoy electronics, which is why I'm pursuing a degree in Electrical Engineering. It runs in the family.
 
 # ...Scriptwriter
 
-I write scripts for a couple of clients. It started back in October 2021. The job's been a great learning experience for me, it's pretty cool connecting with different types of people.
+I've been writing scripts for clients since 2021. The job's been a great learning experience for me; it's pretty cool connecting with different types of people.
 
-# ...Trusty digital wingman
+# ...Virtual Assistant Duties
 
-A pretentious way of saying 'Virtual assistant.' My first gig was a Virtual assistance job. Got a better grasp on the basic tools and practices. I also had my fair share of experiences with customers.
+I've also worked as a virtual assistant, helping people with different tasks. It was my first freelance job, and I gained a good grasp of basic tools and practices, as well as learned from various customer interactions.
 
 # ...Web dev newbie
 
-I chose to build this site with [Jekyll](https://jekyllrb.com/); a static site generator used to build websites using [Markdown](https://en.wikipedia.org/wiki/Markdown), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/css), and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript). I'm hosting it on [Cloudflare Pages](https://pages.cloudflare.com/). I used to host it on Netlify, but I chose to migrate since I've also been using Cloudflare's CDN. To make blogging a bit more painless, I use a CMS called [Forestry](https://forestry.io/).
+For this website, I chose to use [Jekyll](https://jekyllrb.com/), a tool for creating websites using simple text files. The site is hosted on [Cloudflare Pages](https://pages.cloudflare.com/), which I decided to switch to from Netlify due to its features. To make writing blog posts easier, I use a tool called [Forestry](https://forestry.io/).
 
-I'm still a newbie for these things, so I chose to use a theme called [Klisé](https://github.com/piharpi/jekyll-klise).
+I'm still new to a lot of this, so I'm using a design called [Klisé](https://github.com/piharpi/jekyll-klise).
 
-# ...Anime normie
+# ...My Love for Anime
 
-I just HAD to mention it. It's part of who I am! I started back in 2020. Find my anime (AniList) profile down below.
+I can't help but mention that I'm a big fan of anime. I got into it in 2020. You can find my anime list on AniList below.
 
 <h1 style="text-align: center;"> Where to find me </h1>
 
@@ -53,6 +53,6 @@ I just HAD to mention it. It's part of who I am! I started back in 2020. Find my
 
 <p><img src="/assets/img/about/gmail.png" alt="GitHub" style="width:24px;"/><a href="mailto:carlrobincastro@gmail.com" target="_blank"> carlrobincastro@gmail.com</a></p>
 
-### Anime (for all ya'll weebs):
+### Anime (for my fellow cultured people):
 
 <p><img src="/assets/img/about/anilist.png" alt="AniList" style="width:24px;"/><a href="https://anilist.co/user/Rumpelforeskin/" target="_blank"> AniList</a></p>
