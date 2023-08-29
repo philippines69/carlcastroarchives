@@ -9,10 +9,10 @@ categories: ''
 ---
 ### Guess who's back?
 
-Man, a LOT happened last month. Now I feel like a completely different person. Heck, even my previous post about psychology didn't look like it was made by me.
+Wow, looking back at last month, it's like a whirlwind hit me. I swear, I've gone through so many changes that I feel like an entirely different person now.
 
-Anyways, I'm broke-ass right now, so I've started sending more proposals hoping to land an okay-ish gig. I (yet again) did another rework of my Upwork and OLJ profiles as the previous ones were too shitty (and messy) even for my standards.
+But let's talk real life stuff—I'm pretty much broke right now. So, I've gone into full hustle mode, sending out proposals left and right, hoping to land something decent. I even gave my Upwork and OLJ profiles a major overhaul (again). The old versions were just way too messy.
 
-I'll probably go back to being semi-active on this site, college sucks way too much of my time and brain cells.
+As for this site, well, I'll try to pop in more often. College is a massive drain on both my time and my mental energy, so it's a bit of a juggling act.
 
 Wish me luck I guess?
