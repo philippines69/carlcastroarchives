@@ -11,14 +11,8 @@ categories: Personal
 
 # Resume done, can I sleep now
 
-I've been putting off working on this thing and now it's finally done.
+I've been procrastinating on getting this thing done, but guess what? It's finally crossed off my list.
 
-This ain't the first time I made myself a resume. Although I made the first one when I was 16 so you can expect some weird, out-of-place stuff teenage me thought of putting on.
+This isn't my first go at crafting a resume. Nope, I actually whipped up my very first one when I was just 16. You can only imagine the odd assortment of things teenage me decided to throw in there.
 
-I've been relying on my cover letter ever since I started. Now that I have a resume, would it somewhat help me in my job search?
-
-# Spongebob music's quite good
-
-<u> <a href="https://cdn.discordapp.com/attachments/993410728088305734/1016835522833940550/metal-gear-rising-metal-gear-rising-revengeance.gif">Source</a> </u>
-
-<iframe width="600" height="382" src="https://www.youtube.com/embed/dJJQTxiW0P8" title="Relaxing SpongeBob Jams for Sleeping/Studying" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+I've mostly been banking on my cover letter up until now. But with an actual resume in hand, do you think it might give my job search a bit of a boost?
