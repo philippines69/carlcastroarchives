@@ -8,8 +8,8 @@ categories: Personal
 permalink: sadboi-hours
 
 ---
-This ability of mine can make me switch from the happiest person on earth to the most depressed and self-pitying prick faster than the downfall of the Philippine economy. I usually think rationally (and positively). But there are just days when I feel I'm not doing enough/I'm not enough.
+I've got this weird knack—it can turn me from the happiest person ever to the most down-in-the-dumps, self-pitying individual. Usually, I'm all about thinking rationally (and staying upbeat). But then, there are those days when I get hit with this feeling that I'm just not measuring up or doing enough. It's like a rollercoaster ride between confidence and self-doubt.
 
 But this feeling will pass.. as it always does.
 
-<figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/1021350699134627860/unknown.png" alt="scream crying emoji" style="width:500px;"> <figcaption></figcaption> </figure>
+<figure><img src="https://i.imgflip.com/7m333d.png" alt="scream crying emoji" style="width:500px;"> <figcaption></figcaption> </figure>
