@@ -14,9 +14,9 @@ categories: Personal
 I live in a third-world country. Motorcycles are the go-to vehicles here. They're:
 
 1. Cheap
-2. Give you less traffic headaches
+2. Good at lessening traffic headaches
 
-So, I decided to give riding one a shot. Used to take the jeepney to uni, but I figured it was time to keep my sanity and ditch public transportation.
+So, I decided to try riding one. Used to take the jeepney to uni, but I figured it was time to keep what sanity I have left and ditch public transportation.
 
 That was the plan, anyway. Never thought it'd be challenging. They always say "it's just like riding a bicycle." Well, let me tell you, it was absolutely nothing like riding a bike.
 
