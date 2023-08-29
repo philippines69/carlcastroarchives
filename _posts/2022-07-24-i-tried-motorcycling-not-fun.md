@@ -14,13 +14,13 @@ categories: Personal
 I live in a third-world country. Motorcycles are the go-to vehicles here. They're:
 
 1. Cheap
-2. Less traffic pain
+2. Give you less traffic headaches
 
-And so I tried learning to ride one. I was commuting to uni before this, so I decided I would finally recover some of my sanity by saying _goodbye_ to all the packed jeepneys.
+So, I decided to give riding one a shot. Used to take the jeepney to uni, but I figured it was time to keep my sanity and ditch public transportation.
 
-That was the plan, anyway. Never thought it'd be challenging. They always say "it's just like riding a bicycle." It did NOT feel like riding a bicycle. Controlling the throttle was one thing, now I have to learn 700 different bits and pieces just to 'familiarize' how the whole thing works. Nah fam, I don't think I will.
+That was the plan, anyway. Never thought it'd be challenging. They always say "it's just like riding a bicycle." Well, let me tell you, it was absolutely nothing like riding a bike.
 
-But anyway, I'll probably do alright.
+But hey, whatever, I'll probably get the hang of it eventually.
 
 <figure> <video width="600px" controls>
 <source src="https://cdn.discordapp.com/attachments/993410728088305734/1001126129924571296/The_level_of_petty_I_aspire_to_be_-_motorcycles.mp4" type="video/mp4">
