@@ -7,6 +7,7 @@ title: 2022 ain't a good year ngl istg fr fr tho
 date: 2022-07-12T16:00:00.000+00:00
 categories: Personal, 12am thoughts
 permalink: "/2022-ain't-a-good-year-AT-ALL/"
+published: false
 
 ---
 <figure><img src="https://cdn.discordapp.com/attachments/993410728088305734/996455238980612248/0_GEZDqwMQqsdNegms.jpg" alt="The Scream" style="width:400px;"> <figcaption>“The Scream” by Edvard Munch</figcaption> </figure>
