@@ -1,0 +1,14 @@
+---
+tags:
+- Personal
+layout: post
+title: Hi sir
+date: 2023-08-29 16:00:00 +0000
+categories: ''
+
+---
+
+
+<figure><img src="https://i.imgur.com/xd3HsZ2.jpeg" style="width:800px;"> </figure>
+
+
