@@ -3,7 +3,7 @@ tags:
 - Personal
 layout: post
 title: Palaro
-date: 2023-10-14 16:00:00 +0000
+date: 2023-10-15 16:00:00 +0000
 categories: ''
 
 ---
@@ -13,3 +13,4 @@ categories: ''
 
 
 This was inside the gymnasium where a bunch of events were happening during the Palaro..
+
