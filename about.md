@@ -22,8 +22,8 @@ I welcome any feedback or questions. If you'd like to connect, please don't hesi
 
 Thank you for taking the time to visit my personal college website. I hope you find the content insightful and informative. Feel free to explore the various sections to get to know me better and follow my journey through college.
 
-Carl Castro
-carlrobincastro@gmail.com
-Western Mindanao State University
+Carl Castro <br>
+carlrobincastro@gmail.com <br>
+Western Mindanao State University <br>
 
 <figure><img src="https://media.tenor.com/jtiibdPsFx8AAAAC/moe-moe-kyun.gif" style="width:400px;"> </figure>
