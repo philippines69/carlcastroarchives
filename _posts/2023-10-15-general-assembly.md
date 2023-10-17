@@ -11,6 +11,6 @@ categories: ''
 
 <figure><img src="https://i.imgur.com/b0raGiM.png" style="width:500px;"> </figure>
 
-Much like a welcoming event, the general assembly marks the beginning of the academic year, bringing together all WMSU students for an orientation covering matters concerning the coming academic year.
+Much like a welcoming event, the general assembly marks the beginning of the academic year, bringing together all WMSU students for an orientation covering matters concerning the coming academic year..
 
 
