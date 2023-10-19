@@ -14,3 +14,4 @@ categories: ''
 
 This was inside the gymnasium where a bunch of events were happening during the Palaro..
 
+Thankfully, College of Engineering won as this year's Palaro champions; 49 Bronze, 23 Silver, and 43 Gold!
