@@ -9,7 +9,7 @@ categories: ''
 ---
 # General Assembly
 
-<figure><img src="https://i.imgur.com/a7aW32l.png" style="width:500px;"> </figure>
+<figure><img src="https://i.imgur.com/DwLEafp.jpg" style="width:500px;"> </figure>
 
 Much like a welcoming event, the general assembly marks the beginning of the academic year, bringing together all WMSU students for an orientation covering matters concerning the coming academic year..
 

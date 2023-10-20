@@ -9,7 +9,7 @@ categories: ''
 ---
 # Open House
 
-<figure><img src="https://i.imgur.com/A89TLHV.png" style="width:500px;"> </figure>
+<figure><img src="https://i.imgur.com/cNtabGy.jpg" style="width:500px;"> </figure>
 
 This pic was taken while we were on the way to the COE building. A photographer caught our eye and we asked them to take a picture of us..
 

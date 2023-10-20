@@ -9,7 +9,7 @@ categories: ''
 ---
 # Palaro
 
-<figure><img src="https://i.imgur.com/tsaFfoQ.png" style="width:500px;"> </figure>
+<figure><img src="https://i.imgur.com/F64Sjsv.jpg" style="width:500px;"> </figure>
 
 
 This was inside the gymnasium where a bunch of events were happening during the Palaro..
